@@ -1,0 +1,31 @@
+# Secrets — the whole point
+.env
+*.key
+
+# Generated artefacts: reproducible from the pipeline, too large for git
+ror_api_cache*.json
+*.numbers
+*.parquet
+*.index
+*.faiss
+*.pkl
+outputs/
+final_report_outputs/
+pubmed_uk/
+raw_xml/
+checkpoints/
+
+# Run state
+*.log
+RUNNING
+resolve_summary.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

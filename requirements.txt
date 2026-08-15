@@ -1,0 +1,18 @@
+# Derived from the imports across src/. Unpinned deliberately — this was a
+# research pipeline, not a deployed service. Pin before any reproduction run.
+
+pandas
+numpy
+requests
+rapidfuzz
+tqdm
+ujson
+
+# Embeddings + retrieval
+torch
+transformers
+faiss-cpu
+
+# Analysis / figures
+matplotlib
+seaborn

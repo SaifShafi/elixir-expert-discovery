@@ -1,0 +1,6133 @@
+[
+  {
+    "query": "Galaxy experts",
+    "seeds_results": [
+      {
+        "pmid": "29485623",
+        "title": "High-quality science requires high-quality open data infrastructure.",
+        "journal": "Scientific data",
+        "year": 2018.0,
+        "authors": [
+          "Susanna-Assunta Sansone",
+          "Mark Thorley",
+          "Patricia Cruse"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Cancer Data"
+        ],
+        "score": 0.7710264921188354
+      },
+      {
+        "pmid": "19741685",
+        "title": "Prepublication data sharing.",
+        "journal": "Nature",
+        "year": 2009.0,
+        "authors": [
+          "Chris Gunter",
+          "Sean Eddy",
+          "Christopher P Austin",
+          "Lisa Berglund",
+          "Chas Bountra",
+          "Jorge L Contreras",
+          "Robert M Cooke",
+          "William L Crosby",
+          "Ken Dewar",
+          "Stephanie O M Dyke",
+          "Khaled El Emam",
+          "William M Gelbart",
+          "Antoni Granell",
+          "Francisco Guarner",
+          "Scott A Jackson",
+          "Jennifer L Jennings",
+          "Steven M Jones",
+          "Karen L Kennedy",
+          "William W Lowrance",
+          "Jingchu Luo",
+          "John J MacKay",
+          "Luis Mart\u00edn-Rivera",
+          "W Richard McCombie",
+          "John D McPherson",
+          "Linda Miller",
+          "Don Moerman",
+          "James M Ostell",
+          "Parminder S Raina",
+          "Christopher Rawlings",
+          "Christoph W Sensen",
+          "Victoria C Stodden",
+          "Michael R Sussman",
+          "David Valle",
+          "Eero I Vuorio",
+          "Susan Wallace",
+          "Jiayan Wu"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.757433295249939
+      },
+      {
+        "pmid": "23514103",
+        "title": "Go retro and get a GRIP.",
+        "journal": "Genome biology",
+        "year": 2013.0,
+        "authors": [],
+        "institutions": [],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7551406621932983
+      },
+      {
+        "pmid": "40322924",
+        "title": "EBI Search: providing discovery tools for biological metadata in 2025.",
+        "journal": "Nucleic acids research",
+        "year": 2025.0,
+        "authors": [
+          "Matthew Pearce",
+          "Prasad Basutkar",
+          "Renato Caminha Jua\u00e7aba Neto",
+          "Vijay Venkatesh Subramoniam",
+          "Kelsey Neis",
+          "Iva Tutis"
+        ],
+        "institutions": [
+          "University of Cambridge"
+        ],
+        "themes": [
+          "Galaxy"
+        ],
+        "score": 0.7498090863227844
+      },
+      {
+        "pmid": "23799911",
+        "title": "Crowdsourcing the corpasome.",
+        "journal": "Source code for biology and medicine",
+        "year": 2013.0,
+        "authors": [],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7480383515357971
+      },
+      {
+        "pmid": "18629186",
+        "title": "The Montagues and the Capulets.",
+        "journal": "Comparative and functional genomics",
+        "year": 2004.0,
+        "authors": [
+          "Carole Goble"
+        ],
+        "institutions": [
+          "University of Manchester"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7476000189781189
+      },
+      {
+        "pmid": "12855473",
+        "title": "myGrid: personalised bioinformatics on the information grid.",
+        "journal": "Bioinformatics (Oxford, England)",
+        "year": 2003.0,
+        "authors": [
+          "Robert D Stevens",
+          "Alan J Robinson"
+        ],
+        "institutions": [
+          "University of Manchester"
+        ],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7459496259689331
+      },
+      {
+        "pmid": "35128509",
+        "title": "International federation of genomic medicine databases using GA4GH standards.",
+        "journal": "Cell genomics",
+        "year": 2021.0,
+        "authors": [
+          "Heidi L Rehm",
+          "Tommi H Nyronen",
+          "Mikael Linden",
+          "Ewan Bimey",
+          "Adrian Thorogood",
+          "Yann Joly",
+          "Jordi Rambla",
+          "Arcadi Navarro",
+          "Michael Brudno",
+          "Melissa S Cline"
+        ],
+        "institutions": [
+          "European Bioinformatics Institute"
+        ],
+        "themes": [
+          "Galaxy"
+        ],
+        "score": 0.7441888451576233
+      },
+      {
+        "pmid": "23631413",
+        "title": "A data-driven approach to preprocessing Illumina 450K methylation array data.",
+        "journal": "BMC genomics",
+        "year": 2013.0,
+        "authors": [
+          "Ruth Pidsley",
+          "Chloe C Y Wong"
+        ],
+        "institutions": [
+          "King's College London"
+        ],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7439922094345093
+      },
+      {
+        "pmid": "33965931",
+        "title": "Enabling FAIR Discovery of Rare Disease Digital Resources.",
+        "journal": "Studies in health technology and informatics",
+        "year": 2021.0,
+        "authors": [
+          "N\u00faria Queralt Rosinach",
+          "Kees Burger",
+          "Luiz Olavo Bonino da Silva Santos",
+          "Marc Hanauer"
+        ],
+        "institutions": [],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7431162595748901
+      }
+    ],
+    "themes_results": [
+      {
+        "pmid": "37258747",
+        "title": "A Roadmap for the Human Gut Cell Atlas.",
+        "journal": "Nature reviews. Gastroenterology & hepatology",
+        "year": 2023.0,
+        "authors": [
+          "Matthias Zilbauer",
+          "Kylie R James",
+          "Albert Burger",
+          "Francesca Perrone",
+          "Alexander D Ross",
+          "Raquel Bartolome-Casado",
+          "Shahida Din",
+          "Mark Arends",
+          "Richard Baldock",
+          "Sarah A Teichmann",
+          "Aviv Regev",
+          "Mandeep Kaur",
+          "Sebastian Pott",
+          "Zhixin Li",
+          "Jay R Thiagarajah",
+          "Joseph Burclaff",
+          "Frode L Jahnsen",
+          "Gianluca Matteoli",
+          "Nathalie Stakenborg",
+          "Tomohisa Sujino",
+          "Andreas Moor",
+          "Espen S B\u00e6kkevold",
+          "Ran Zhou",
+          "Bingqing Xie",
+          "Scott T Magness",
+          "Qiuming Yao",
+          "Semir Beyaz",
+          "Alexandre Denadai-Souza",
+          "Lori A Coburn",
+          "Jellert T Gaublomme",
+          "Jose Ordovas-Montanes",
+          "Guy Boeckxstaens",
+          "Anna Hupalowska",
+          "Ramnik J Xavier",
+          "Michael P Snyder",
+          "Keith T Wilson"
+        ],
+        "institutions": [
+          "University of Cambridge",
+          "Wellcome Sanger Institute",
+          "University of Edinburgh"
+        ],
+        "themes": [
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Galaxy"
+        ]
+      },
+      {
+        "pmid": "19796396",
+        "title": "Knowledge-driven enhancements for task composition in bioinformatics.",
+        "journal": "BMC bioinformatics",
+        "year": 2009.0,
+        "authors": [
+          "Karen Sutherland",
+          "Kenneth McLeod",
+          "Gus Ferguson"
+        ],
+        "institutions": [],
+        "themes": [
+          "Rare Diseases",
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Galaxy"
+        ]
+      },
+      {
+        "pmid": "16823135",
+        "title": "Sealife: a semantic grid browser for the life sciences applied to the study of infectious diseases.",
+        "journal": "Studies in health technology and informatics",
+        "year": 2006.0,
+        "authors": [
+          "Michael Schroeder",
+          "Patty Kostkova",
+          "Bianca Habermann",
+          "Rose Dieng-Kuntz"
+        ],
+        "institutions": [],
+        "themes": [
+          "Rare Diseases",
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Galaxy"
+        ]
+      },
+      {
+        "pmid": "15833128",
+        "title": "Anatomical ontologies: names and places in biology.",
+        "journal": "Genome biology",
+        "year": 2005.0,
+        "authors": [
+          "Richard Baldock"
+        ],
+        "institutions": [
+          "University of Edinburgh"
+        ],
+        "themes": [
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Galaxy"
+        ]
+      },
+      {
+        "pmid": "26366667",
+        "title": "Positive selection of AS3MT to arsenic water in Andean populations.",
+        "journal": "Mutation research",
+        "year": 2015.0,
+        "authors": [
+          "Christina A Eichstaedt",
+          "Tiago Antao",
+          "Alexia Cardona",
+          "Luca Pagani",
+          "Toomas Kivisild",
+          "Maru Mormina"
+        ],
+        "institutions": [
+          "University of Cambridge",
+          "University of Liverpool"
+        ],
+        "themes": [
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Galaxy"
+        ]
+      },
+      {
+        "pmid": "25770088",
+        "title": "A recent bottleneck of Y chromosome diversity coincides with a global change in culture.",
+        "journal": "Genome research",
+        "year": 2015.0,
+        "authors": [
+          "Monika Karmin",
+          "M\u00e1rio Vicente",
+          "Luca Pagani",
+          "Zuzana Faltyskova",
+          "Florian Clemente",
+          "Alexia Cardona",
+          "Christina Eichstaedt",
+          "Maru Mormina",
+          "Yali Xue",
+          "Qasim Ayub",
+          "Irina Evseeva",
+          "Andrea Bamberg Migliano",
+          "Anders Eriksson",
+          "Andrea Manica",
+          "Neil Bradman",
+          "Mark G Thomas",
+          "Chris Tyler-Smith",
+          "Toomas Kivisild",
+          "Lauri Saag",
+          "Melissa A Wilson Sayres",
+          "Mari J\u00e4rve",
+          "Ulvi Gerst Talas",
+          "Siiri Rootsi",
+          "Anne-Mai Ilum\u00e4e",
+          "Reedik M\u00e4gi",
+          "Mario Mitt",
+          "Tarmo Puurand",
+          "Ene Metspalu",
+          "Hovhannes Sahakyan",
+          "Bayazit Yunusbayev",
+          "Georgi Hudjashov",
+          "Michael DeGiorgio",
+          "Eva-Liis Loogv\u00e4li",
+          "Mikk Eelmets",
+          "Gyaneshwer Chaubey",
+          "Kristiina Tambets",
+          "Sergei Litvinov",
+          "Grigor Zoraqi",
+          "Thorfinn Sand Korneliussen",
+          "Farida Akhatova",
+          "Joseph Lachance",
+          "Sarah Tishkoff",
+          "Kuvat Momynaliev",
+          "Fran\u00e7ois-Xavier Ricaut",
+          "Pradiptajati Kusuma",
+          "Harilanto Razafindrazaka",
+          "Denis Pierron",
+          "Murray P Cox",
+          "Gazi Nurun Nahar Sultana",
+          "Rane Willerslev",
+          "Craig Muller",
+          "Michael Westaway",
+          "David Lambert",
+          "Vedrana Skaro",
+          "Lejla Kova\u010devic",
+          "Shahlo Turdikulova",
+          "Dilbar Dalimova",
+          "Rita Khusainova",
+          "Natalya Trofimova",
+          "Vita Akhmetova",
+          "Irina Khidiyatova",
+          "Daria V Lichman",
+          "Jainagul Isakova",
+          "Elvira Pocheshkhova",
+          "Zhaxylyk Sabitov",
+          "Nikolay A Barashkov",
+          "Pagbajabyn Nymadawa",
+          "Evelin Mihailov",
+          "Joseph Wee Tien Seng",
+          "Syafiq Abdullah",
+          "George Andriadze",
+          "Dragan Primorac",
+          "Lubov Atramentova",
+          "Olga Utevska",
+          "Levon Yepiskoposyan",
+          "Damir Marjanovic",
+          "Alena Kushniarevich",
+          "Doron M Behar",
+          "Christian Gilissen",
+          "Lisenka Vissers",
+          "Joris A Veltman",
+          "Elena Balanovska",
+          "Miroslava Derenko",
+          "Boris Malyarchuk",
+          "Andres Metspalu",
+          "Sardana Fedorova",
+          "Fernando L Mendez",
+          "Tatiana M Karafet",
+          "Krishna R Veeramah",
+          "Michael F Hammer",
+          "Ludmila P Osipova",
+          "Oleg Balanovsky",
+          "Elza K Khusnutdinova",
+          "Knut Johnsen",
+          "Maido Remm",
+          "Peter A Underhill",
+          "Eske Willerslev",
+          "Rasmus Nielsen",
+          "Mait Metspalu",
+          "Richard Villems"
+        ],
+        "institutions": [
+          "University of Cambridge",
+          "Wellcome Sanger Institute",
+          "University College London"
+        ],
+        "themes": [
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Galaxy"
+        ]
+      },
+      {
+        "pmid": "37964598",
+        "title": "\"Be sustainable\": EOSC-Life recommendations for implementation of FAIR principles in life science data handling.",
+        "journal": "The EMBO journal",
+        "year": 2023.0,
+        "authors": [
+          "Romain David",
+          "Arina Rybina",
+          "Jean-Marie Burel",
+          "Jean-Karim Heriche",
+          "Pauline Audergon",
+          "Jan-Willem Boiten",
+          "Frederik Coppens",
+          "Sara Crockett",
+          "Katrina Exter",
+          "Sven Fahrner",
+          "Maddalena Fratelli",
+          "Carole Goble",
+          "Philipp Gormanns",
+          "Tobias Grantner",
+          "Bj\u00f6rn Gr\u00fcning",
+          "Kim Tamara Gurwitz",
+          "John M Hancock",
+          "Henriette Harmse",
+          "Petr Holub",
+          "Nick Juty",
+          "Geoffrey Karnbach",
+          "Emma Karoune",
+          "Antje Keppler",
+          "Jessica Klemeier",
+          "Carla Lancelotti",
+          "Jean-Luc Legras",
+          "Allyson L Lister",
+          "Dario Livio Longo",
+          "Rebecca Ludwig",
+          "B\u00e9n\u00e9dicte Madon",
+          "Marzia Massimi",
+          "Vera Matser",
+          "Rafaele Matteoni",
+          "Michaela Th Mayrhofer",
+          "Christian Ohmann",
+          "Maria Panagiotopoulou",
+          "Helen Parkinson",
+          "Isabelle Perseil",
+          "Claudia Pfander",
+          "Roland Pieruschka",
+          "Michael Raess",
+          "Andreas Rauber",
+          "Audrey S Richard",
+          "Paolo Romano",
+          "Antonio Rosato",
+          "Alex S\u00e1nchez-Pla",
+          "Susanna-Assunta Sansone",
+          "Ugis Sarkans",
+          "Beatriz Serrano-Solano",
+          "Jing Tang",
+          "Ziaurrehman Tanoli",
+          "Jonathan Tedds",
+          "Harald Wagener",
+          "Martin Weise",
+          "Hans V Westerhoff",
+          "Rudolf Wittner",
+          "Jonathan Ewbank",
+          "Niklas Blomberg",
+          "Philip Gribbon"
+        ],
+        "institutions": [],
+        "themes": [
+          "Galaxy",
+          "Cancer Data"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Galaxy"
+        ]
+      },
+      {
+        "pmid": "37208467",
+        "title": "The FAIR Cookbook - the essential resource for and by FAIR doers.",
+        "journal": "Scientific data",
+        "year": 2023.0,
+        "authors": [
+          "Philippe Rocca-Serra",
+          "Tony Burdett",
+          "Dominique Batista",
+          "Ibrahim Emam",
+          "Nick Juty",
+          "Colin Wood",
+          "Serena Scollen",
+          "Allyson Lister",
+          "Milo Thurston",
+          "Ramon Granell",
+          "Susanna-Assunta Sansone",
+          "Wei Gu",
+          "Tooba Abbassi-Daloii",
+          "Salvador Capella-Gutierrez",
+          "Ishwar Chandramouliswaran",
+          "Andrea Splendiani",
+          "Robert T Giessmann",
+          "David Henderson",
+          "Yojana Gadiya",
+          "Lucas Giovanni",
+          "Egon Willighagen",
+          "Chris Evelo",
+          "Philip Gribbon",
+          "Danielle Welter",
+          "Karsten Quast",
+          "Paul Peeters",
+          "Tom Plasterer",
+          "Eelke van der Horst",
+          "Dorothy Reilly",
+          "Herman van Vlijmen"
+        ],
+        "institutions": [
+          "University of Oxford",
+          "European Bioinformatics Institute",
+          "Imperial College London",
+          "University of Manchester"
+        ],
+        "themes": [
+          "Research Data Management",
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Galaxy"
+        ]
+      },
+      {
+        "pmid": "32845085",
+        "title": "SBML Level 3: an extensible format for the exchange and reuse of biological models.",
+        "journal": "Molecular systems biology",
+        "year": 2020.0,
+        "authors": [
+          "Sarah M Keating",
+          "Andrew Finney",
+          "Colin S Gillespie",
+          "Rahuman S Malik-Sheriff",
+          "Stuart L Moodie",
+          "Maciej J Swat",
+          "Darren J Wilkinson",
+          "Allyson L Lister",
+          "Carole J Proctor",
+          "Nicolas Rodriguez",
+          "Neil Swainston",
+          "Henning Hermjakob",
+          "Dagmar Waltemath",
+          "Fengkai Zhang",
+          "Andreas Dr\u00e4ger",
+          "Claudine Chaouiya",
+          "Frank T Bergmann",
+          "Tom\u00e1\u0161 Helikar",
+          "Stefan Hoops",
+          "Ion I Moraru",
+          "Aur\u00e9lien Naldi",
+          "Brett G Olivier",
+          "Sven Sahle",
+          "James C Schaff",
+          "Lucian P Smith",
+          "Denis Thieffry",
+          "Leandro Watanabe",
+          "Michael L Blinov",
+          "Kimberly Begley",
+          "James R Faeder",
+          "Harold F G\u00f3mez",
+          "Thomas M Hamm",
+          "Yuichiro Inagaki",
+          "Wolfram Liebermeister",
+          "Daniel Lucio",
+          "Eric Mjolsness",
+          "Karthik Raman",
+          "Clifford A Shaffer",
+          "Bruce E Shapiro",
+          "Joerg Stelling",
+          "Naoki Tanimura",
+          "John Wagner",
+          "Martin Meier-Schellersheim",
+          "Bernhard Palsson",
+          "Hamid Bolouri",
+          "Hiroaki Kitano",
+          "John C Doyle"
+        ],
+        "institutions": [
+          "European Bioinformatics Institute",
+          "Newcastle University",
+          "University of Oxford",
+          "University of Liverpool"
+        ],
+        "themes": [
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Galaxy"
+        ]
+      },
+      {
+        "pmid": "27189610",
+        "title": "BioSharing: curated and crowd-sourced metadata standards, databases and data policies in the life sciences.",
+        "journal": "Database : the journal of biological databases and curation",
+        "year": 2016.0,
+        "authors": [
+          "Peter McQuilton",
+          "Alejandra Gonzalez-Beltran",
+          "Philippe Rocca-Serra",
+          "Milo Thurston",
+          "Allyson Lister",
+          "Susanna-Assunta Sansone",
+          "Eamonn Maguire"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Galaxy",
+          "Rare Diseases"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Galaxy"
+        ]
+      }
+    ],
+    "seeds_experts": [
+      {
+        "name": "Susanna-Assunta Sansone",
+        "paper_count": 3
+      },
+      {
+        "name": "Stephanie O M Dyke",
+        "paper_count": 2
+      },
+      {
+        "name": "Carole Goble",
+        "paper_count": 2
+      },
+      {
+        "name": "Heidi L Rehm",
+        "paper_count": 2
+      },
+      {
+        "name": "Michael Brudno",
+        "paper_count": 2
+      }
+    ],
+    "themes_experts": [
+      {
+        "name": "Anthony J Brookes",
+        "paper_count": 8
+      },
+      {
+        "name": "Stephanie O M Dyke",
+        "paper_count": 6
+      },
+      {
+        "name": "Tim Beck",
+        "paper_count": 4
+      },
+      {
+        "name": "Giselle Kerry",
+        "paper_count": 4
+      },
+      {
+        "name": "Francis Jeanson",
+        "paper_count": 4
+      }
+    ],
+    "analysis": {
+      "seeds_paper_count": 10,
+      "themes_paper_count": 10,
+      "seeds_expert_count": 5,
+      "themes_expert_count": 5,
+      "seeds_quality": 0.6,
+      "themes_quality": 0.6,
+      "overlap_papers": 0,
+      "overlap_ratio": 0.0
+    }
+  },
+  {
+    "query": "microbiome research",
+    "seeds_results": [
+      {
+        "pmid": "33511375",
+        "title": "Primary human colonic mucosal barrier crosstalk with super oxygen-sensitive",
+        "journal": "Med (New York, N.Y.)",
+        "year": 2021.0,
+        "authors": [
+          "Jun Young Yoon",
+          "Brij Bhushan",
+          "David L Trumper",
+          "Linda G Griffith",
+          "Rebecca L Carrier",
+          "Jianbo Zhang",
+          "Yu-Ja Huang",
+          "John Kemmitt",
+          "Charles Wright",
+          "Kirsten Schneider",
+          "Pierre Sphabmixay",
+          "Victor Hernandez-Gordillo",
+          "Steven J Holcomb",
+          "Gar Rohatgi",
+          "Kyle Benton",
+          "David Carpenter",
+          "Jemila C Kester",
+          "George Eng",
+          "David T Breault",
+          "Omer Yilmaz",
+          "Mao Taketani",
+          "Christopher A Voigt"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.774293839931488
+      },
+      {
+        "pmid": "34836611",
+        "title": "Oxygen levels are key to understanding \"Anaerobic\" protozoan pathogens with micro-aerophilic lifestyles.",
+        "journal": "Advances in microbial physiology",
+        "year": 2021.0,
+        "authors": [
+          "David Lloyd",
+          "Alan Chapman",
+          "Jayne E Ellis",
+          "Kevin Hillman",
+          "Timothy A Paget",
+          "Alan G Williams",
+          "Nigel Yarlett"
+        ],
+        "institutions": [
+          "Cardiff University"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7592199444770813
+      },
+      {
+        "pmid": "30816855",
+        "title": "Microbial bile salt hydrolases mediate the efficacy of faecal microbiota transplant in the treatment of recurrent",
+        "journal": "Gut",
+        "year": 2019.0,
+        "authors": [
+          "Benjamin H Mullish",
+          "Julie A K McDonald",
+          "Alexandros Pechlivanis",
+          "Grace F Barker",
+          "Diya Kapila",
+          "Izabela Glegola-Madejska",
+          "Horace R T Williams",
+          "Elaine Holmes",
+          "Thomas B Clarke",
+          "Mark R Thursz",
+          "Julian R Marchesi",
+          "Jessica R Allegretti",
+          "Dina Kao",
+          "Elaine O Petrof",
+          "Cormac G M Gahan"
+        ],
+        "institutions": [
+          "Imperial College London"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7515628337860107
+      },
+      {
+        "pmid": "34712918",
+        "title": "Modeling",
+        "journal": "iScience",
+        "year": 2021.0,
+        "authors": [
+          "J\u00fcrgen W Sch\u00f6nborn",
+          "Fiona A Stewart",
+          "Kerstin Maas Enriquez",
+          "Irfan Akhtar",
+          "Andrea Droste",
+          "Silvio Waschina",
+          "Mathias Beller"
+        ],
+        "institutions": [],
+        "themes": [
+          "Metabolomics"
+        ],
+        "score": 0.7502772212028503
+      },
+      {
+        "pmid": "29485623",
+        "title": "High-quality science requires high-quality open data infrastructure.",
+        "journal": "Scientific data",
+        "year": 2018.0,
+        "authors": [
+          "Susanna-Assunta Sansone",
+          "Mark Thorley",
+          "Patricia Cruse"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Cancer Data"
+        ],
+        "score": 0.7495315074920654
+      },
+      {
+        "pmid": "40625873",
+        "title": "",
+        "journal": "Frontiers in plant science",
+        "year": 2025.0,
+        "authors": [
+          "Deyu Mu",
+          "Meng Zhang",
+          "Yu Liang",
+          "Chen Ding",
+          "Qinglei Chen",
+          "Xiaoli Fan",
+          "Xiang Meng",
+          "Xinpeng Zhang",
+          "Shengyu Gao",
+          "Datong Zhai",
+          "Yubo Gao",
+          "Yawei Wu"
+        ],
+        "institutions": [],
+        "themes": [
+          "Biodiversity"
+        ],
+        "score": 0.7479910850524902
+      },
+      {
+        "pmid": "32498449",
+        "title": "Uncovering the Core Microbiome and Distribution of Palmerolide in",
+        "journal": "Marine drugs",
+        "year": 2020.0,
+        "authors": [
+          "Alison E Murray",
+          "Nicole E Avalon",
+          "Lucas Bishop",
+          "Karen W Davenport",
+          "Erwan Delage",
+          "Armand E K Dichosa",
+          "Damien Eveillard",
+          "Mary L Higham",
+          "Sofia Kokkaliari",
+          "Chien-Chi Lo",
+          "Christian S Riesenfeld",
+          "Ryan M Young",
+          "Patrick S G Chain",
+          "Bill J Baker"
+        ],
+        "institutions": [],
+        "themes": [
+          "Microbiome"
+        ],
+        "score": 0.7472042441368103
+      },
+      {
+        "pmid": "33523652",
+        "title": "",
+        "journal": "Bioconjugate chemistry",
+        "year": 2021.0,
+        "authors": [
+          "Julien C Vantourout",
+          "Josephine Yuen",
+          "Ghotas Evindar",
+          "Letian Kuai",
+          "Xiaopeng Bai",
+          "Eric Shi",
+          "Steven Skinner",
+          "Christopher Arico-Muendel",
+          "Andrew M Mason",
+          "Graham L Simpson",
+          "Michael Hobbs",
+          "Emma Edgar",
+          "Saul Needle",
+          "Steve Wilson",
+          "Paul Scott-Stevens",
+          "William Traylen",
+          "Kim Lambert",
+          "Neil Young",
+          "Shenaz Bunally",
+          "Scott G Summerfield",
+          "Richard Snell",
+          "Rakesh Lad",
+          "Lisa Shewchuk",
+          "Allan J B Watson",
+          "Chun-Wa Chung",
+          "Sandeep Pal",
+          "Dennis A Holt",
+          "Lara S Kallander",
+          "Joanne Prendergast",
+          "Katrina Rivera",
+          "David G Washburn",
+          "Mark R Harpel",
+          "Albert Isidro-Llobet"
+        ],
+        "institutions": [
+          "University of Glasgow"
+        ],
+        "themes": [
+          "Intrinsically Disordered Proteins (IDP)"
+        ],
+        "score": 0.7471681833267212
+      },
+      {
+        "pmid": "37388964",
+        "title": "pBLAM1-x: standardized transposon tools for high-throughput screening.",
+        "journal": "Synthetic biology (Oxford, England)",
+        "year": 2023.0,
+        "authors": [
+          "Lorea Alejaldre",
+          "Ana-Mariya Anhel"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7468833327293396
+      },
+      {
+        "pmid": "35092010",
+        "title": "Biochemistry shapes growth kinetics of nitrifiers and defines their activity under specific environmental conditions.",
+        "journal": "Biotechnology and bioengineering",
+        "year": 2022.0,
+        "authors": [
+          "Eloi Martinez-Rabert",
+          "Cindy J Smith",
+          "William T Sloan",
+          "Rebeca Gonz\u00e1lez-Cabaleiro"
+        ],
+        "institutions": [
+          "University of Glasgow"
+        ],
+        "themes": [
+          "Microbial Biotechnology"
+        ],
+        "score": 0.7466534972190857
+      }
+    ],
+    "themes_results": [
+      {
+        "pmid": "35185850",
+        "title": "Metagenomics Versus Metatranscriptomics of the Murine Gut Microbiome for Assessing Microbial Metabolism During Inflammation.",
+        "journal": "Frontiers in microbiology",
+        "year": 2022.0,
+        "authors": [
+          "Juan Jovel",
+          "Aissata Nimaga",
+          "Tracy Jordan",
+          "Sandra O'Keefe",
+          "Jordan Patterson",
+          "Aducio Thiesen",
+          "Naomi Hotte",
+          "Michael Bording-Jorgensen",
+          "Sudip Subedi",
+          "Jessica Hamilton",
+          "Eric J Carpenter",
+          "B\u00e9atrice Lauga",
+          "Shokrollah Elahi",
+          "Karen L Madsen",
+          "Gane Ka-Shu Wong",
+          "Andrew L Mason"
+        ],
+        "institutions": [],
+        "themes": [
+          "Microbiome"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Microbiome",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "35143897",
+        "title": "Risk factors and outcomes associated with recurrent autoimmune hepatitis following liver transplantation.",
+        "journal": "Journal of hepatology",
+        "year": 2022.0,
+        "authors": [
+          "Vincenzo Ronca",
+          "Michael Heneghan",
+          "Ye Htun Oo",
+          "Maryam Ebadi",
+          "Cumali Efe",
+          "Murat Harputluoglu",
+          "Murat Aky\u0131ld\u0131z",
+          "Atsushi Tanaka",
+          "Toru Ikegami",
+          "Yoshihide Ueda",
+          "Benedetta Terziroli Beretta-Piccoli",
+          "Marco Sciveres",
+          "Andrew L Mason",
+          "Mark Pedersen",
+          "Aldo J Montano-Loza",
+          "Bettina E Hansen",
+          "Gideon Hirschfield",
+          "Saleh Elwir",
+          "Mohamad Alsaed",
+          "Piotr Milkiewicz",
+          "Maciej K Janik",
+          "Hanns-Ulrich Marschall",
+          "Maria Antonella Burza",
+          "Ali R\u0131za Cal\u0131\u015fkan",
+          "G\u00f6khan Kaba\u00e7am",
+          "D\u00e9bora Terrabuio",
+          "Fernanda de Quadros Onofrio",
+          "Nazia Selzner",
+          "Alan Bonder",
+          "Albert Par\u00e9s",
+          "Laura Llovet",
+          "Cigdem Arikan",
+          "Michael P Manns",
+          "Richard Taubert",
+          "Anna-Lena Weber",
+          "Thomas D Schiano",
+          "Brandy Haydel",
+          "Piotr Czubkowski",
+          "Piotr Socha",
+          "Natalia O\u0142dak",
+          "Nobuhisa Akamatsu",
+          "Cynthia Levy",
+          "Eric F Martin",
+          "Aparna Goel",
+          "Mai Sedki",
+          "Irena Jankowska",
+          "Maria Rodriguez",
+          "Martina Sterneck",
+          "Christina Weiler-Normann",
+          "Christoph Schramm",
+          "Maria Francesca Donato",
+          "Ansgar Lohse",
+          "Raul J Andrade",
+          "Vilas R Patwardhan",
+          "Bart van Hoek",
+          "Maaike Biewenga",
+          "Andreas E Kremer",
+          "Mark Deneau",
+          "Marlyn J Mayo",
+          "Annarosa Floreani",
+          "Patrizia Burra",
+          "Maria Francesca Secchi",
+          "Giuseppe Maggiore",
+          "Syed-Mohammed Jafri",
+          "Dominique Debray",
+          "Muriel Girard",
+          "Florence Lacaille",
+          "Ellina Lytvyak"
+        ],
+        "institutions": [
+          "University of Birmingham"
+        ],
+        "themes": [
+          "Microbiome"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Microbiome",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "34882032",
+        "title": "The Most Important Telemedicine Patient Satisfaction Dimension: Patient-Centered Care.",
+        "journal": "Telemedicine journal and e-health : the official journal of the American Telemedicine Association",
+        "year": 2022.0,
+        "authors": [
+          "Andrew N Mason"
+        ],
+        "institutions": [],
+        "themes": [
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Microbiome",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "34820659",
+        "title": "The Data Use Ontology to streamline responsible access to human biomedical datasets.",
+        "journal": "Cell genomics",
+        "year": 2021.0,
+        "authors": [
+          "Anthony J Brookes",
+          "Jonathan Lawson",
+          "Moran N Cabili",
+          "Giselle Kerry",
+          "Sarion R Bowers",
+          "Tony Burdett",
+          "Hayley Clissold",
+          "Stacey Donnelly",
+          "Mallory A Freeberg",
+          "Melissa Konopko",
+          "Jamal Nasir",
+          "Helen Parkinson",
+          "Anthony A Philippakis",
+          "Kathy Reinold",
+          "Gregory A Rushton",
+          "Andrea Saltzman",
+          "Gary Saunders",
+          "John D Spalding",
+          "Susheel Varma",
+          "M\u00e9lanie Courtot",
+          "Melissa A Haendel",
+          "Tiffany Boughtwood",
+          "Adrian Thorogood",
+          "Pinar Alper",
+          "Rebecca R Boyles",
+          "Matthew Brush",
+          "Stephanie O M Dyke",
+          "Chihiro Hata",
+          "Petr Holub",
+          "Francis Jeanson",
+          "Aina Jene",
+          "Minae Kawashima",
+          "Shuichi Kawashima",
+          "Irene Kyomugisha",
+          "Haoyuan Li",
+          "Mikael Linden",
+          "Laura Lyman Rodriguez",
+          "Mizuki Morita",
+          "Jean Muller",
+          "Satoshi Nagaie",
+          "Soichi Ogishima",
+          "Vivian Ota Wang",
+          "Laura D Paglione",
+          "Ravi N Pandya",
+          "Fabian Prasser",
+          "Jordi Rambla",
+          "Heidi J Sofia",
+          "Morris A Swertz",
+          "Ilia Tulchinsky",
+          "Esther J van Enckevort",
+          "Craig Voisin",
+          "Natsuko Yamamoto",
+          "Chisato Yamasaki",
+          "Jaime M Guidry Auvil",
+          "Tommi H Nyr\u00f6nen"
+        ],
+        "institutions": [
+          "European Bioinformatics Institute",
+          "Wellcome Sanger Institute"
+        ],
+        "themes": [
+          "Galaxy",
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Microbiome",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "32664956",
+        "title": "The sputum microbiome is distinct between COPD and health, independent of smoking history.",
+        "journal": "Respiratory research",
+        "year": 2020.0,
+        "authors": [
+          "Koirobi Haldar",
+          "Leena George",
+          "Vijay Mistry",
+          "Mohammadali Yavari Ramsheh",
+          "Robert C Free",
+          "Catherine John",
+          "Nicola F Reeve",
+          "Adam J Webb",
+          "Anthony J Brookes",
+          "Martin D Tobin",
+          "Dave Singh",
+          "Gavin C Donaldson",
+          "Jadwiga A Wedzicha",
+          "Michael R Barer",
+          "Christopher E Brightling",
+          "Zhang Wang",
+          "Bruce E Miller",
+          "Ruth Tal-Singer",
+          "James R Brown"
+        ],
+        "institutions": [
+          "University of Manchester",
+          "Imperial College London"
+        ],
+        "themes": [
+          "Microbiome"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Microbiome",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "31907067",
+        "title": "Prescreening for European Prevention of Alzheimer Dementia (EPAD) trial-ready cohort: impact of AD risk factors and recruitment settings.",
+        "journal": "Alzheimer's research & therapy",
+        "year": 2020.0,
+        "authors": [
+          "Anthony J Brookes",
+          "Graciela Muniz-Terrera",
+          "Colin Veal",
+          "Archie Campbell",
+          "Natalie Jenkins",
+          "David Porteous",
+          "Brian D Tom",
+          "Henrik Zetterberg",
+          "Craig W Ritchie",
+          "Lisa Vermunt",
+          "Lea Ter Meulen",
+          "Kaj Blennow",
+          "Isabelle Carri\u00e9",
+          "Julien Delrieu",
+          "Karine Fauria",
+          "Gema Huesa Rodr\u00edguez",
+          "Silvia Ingala",
+          "Jos\u00e9 Luis Molinuevo",
+          "Pierre-Jean Ousset",
+          "Niels D Prins",
+          "Alina Solomon",
+          "Marissa Zwan",
+          "Philip Scheltens",
+          "Gerald Luscan",
+          "Pieter Jelle Visser"
+        ],
+        "institutions": [
+          "University of Edinburgh",
+          "University of Cambridge",
+          "University College London"
+        ],
+        "themes": [
+          "Microbiome"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Microbiome",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "39994238",
+        "title": "Applying the FAIR Principles to computational workflows.",
+        "journal": "Scientific data",
+        "year": 2025.0,
+        "authors": [
+          "Meznah Aloqalaa",
+          "Nick Juty",
+          "Stian Soiland-Reyes",
+          "Nicola Soranzo",
+          "Shoaib Sufi",
+          "Merridee A Wouters",
+          "Carole Goble",
+          "Ove Johan Ragnar Gustafsson",
+          "Sean R Wilkinson",
+          "Khalid Belhajjame",
+          "Michael R Crusoe",
+          "Bruno de Paula Kinoshita",
+          "Luiz Gadelha",
+          "Daniel Garijo",
+          "Sehrish Kanwal",
+          "Farah Zaib Khan",
+          "Johannes K\u00f6ster",
+          "Karsten Peters-von Gehlen",
+          "Line Pouchard",
+          "Randy K Rannow",
+          "Ziheng Sun",
+          "Baiba Vilne",
+          "Denis Yuen"
+        ],
+        "institutions": [
+          "University of Manchester"
+        ],
+        "themes": [
+          "Galaxy",
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Microbiome",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "30062047",
+        "title": "Responsible sharing of biomedical data and biospecimens via the \"Automatable Discovery and Access Matrix\" (ADA-M).",
+        "journal": "NPJ genomic medicine",
+        "year": 2018.0,
+        "authors": [
+          "J Patrick Woolley",
+          "Moran N Cabili",
+          "Gregory Rushton",
+          "Vagelis Ladas",
+          "Colin D Veal",
+          "Spencer J Gibson",
+          "Anthony J Brookes",
+          "Emily Kirby",
+          "Josh Leslie",
+          "Francis Jeanson",
+          "James G Hazard",
+          "Anne-Marie Tass\u00e9",
+          "Stephanie O M Dyke",
+          "Clara Gaff",
+          "Adrian Thorogood",
+          "Bartha Maria Knoppers",
+          "John Wilbanks"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Research Data Management",
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Microbiome",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "38855229",
+        "title": "Evaluating FAIR Digital Object and Linked Data as distributed object systems.",
+        "journal": "PeerJ. Computer science",
+        "year": 2024.0,
+        "authors": [
+          "Stian Soiland-Reyes",
+          "Carole Goble",
+          "Paul Groth"
+        ],
+        "institutions": [
+          "University of Manchester"
+        ],
+        "themes": [
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Microbiome",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "38249839",
+        "title": "Toward a common standard for data and specimen provenance in life sciences.",
+        "journal": "Learning health systems",
+        "year": 2024.0,
+        "authors": [
+          "Tony Burdett",
+          "Adriane Chapman",
+          "Martin Chapman",
+          "Vasa Curcin",
+          "Mark Elliot",
+          "Carole Goble",
+          "Josh Moore",
+          "Stian Soiland-Reyes",
+          "Jason R Swedlow",
+          "Rudolf Wittner",
+          "Petr Holub",
+          "Cecilia Mascia",
+          "Francesca Frexia",
+          "Heimo M\u00fcller",
+          "Markus Plass",
+          "Clare Allocca",
+          "Fay Betsou",
+          "Ibon Cancio",
+          "M\u00e9lanie Courtot",
+          "Johann Eder",
+          "Katrina Exter",
+          "Martin Golebiewski",
+          "Bron Kisler",
+          "Andreas Kremer",
+          "Simone Leo",
+          "Sheng Lin-Gibson",
+          "Anna Marsano",
+          "Marco Mattavelli",
+          "Hiroki Nakae",
+          "Isabelle Perseil",
+          "Ayat Salman",
+          "James Sluka",
+          "Caterina Strambio-De-Castillia",
+          "Michael Sussman",
+          "Kurt Zatloukal",
+          "J\u00f6rg Geiger"
+        ],
+        "institutions": [
+          "University of Cambridge",
+          "King's College London",
+          "University of Manchester"
+        ],
+        "themes": [
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Microbiome",
+          "Research Data Management"
+        ]
+      }
+    ],
+    "seeds_experts": [
+      {
+        "name": "Gabrielle Scheffer",
+        "paper_count": 2
+      },
+      {
+        "name": "Ian M Head",
+        "paper_count": 2
+      },
+      {
+        "name": "Jun Young Yoon",
+        "paper_count": 1
+      },
+      {
+        "name": "Brij Bhushan",
+        "paper_count": 1
+      },
+      {
+        "name": "David L Trumper",
+        "paper_count": 1
+      }
+    ],
+    "themes_experts": [
+      {
+        "name": "Carole Goble",
+        "paper_count": 12
+      },
+      {
+        "name": "Nick Juty",
+        "paper_count": 7
+      },
+      {
+        "name": "Stian Soiland-Reyes",
+        "paper_count": 7
+      },
+      {
+        "name": "Susanna-Assunta Sansone",
+        "paper_count": 5
+      },
+      {
+        "name": "Benedict Paten",
+        "paper_count": 4
+      }
+    ],
+    "analysis": {
+      "seeds_paper_count": 10,
+      "themes_paper_count": 10,
+      "seeds_expert_count": 5,
+      "themes_expert_count": 5,
+      "seeds_quality": 0.6,
+      "themes_quality": 0.76,
+      "overlap_papers": 0,
+      "overlap_ratio": 0.0
+    }
+  },
+  {
+    "query": "Cambridge researchers",
+    "seeds_results": [
+      {
+        "pmid": "29485623",
+        "title": "High-quality science requires high-quality open data infrastructure.",
+        "journal": "Scientific data",
+        "year": 2018.0,
+        "authors": [
+          "Susanna-Assunta Sansone",
+          "Mark Thorley",
+          "Patricia Cruse"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Cancer Data"
+        ],
+        "score": 0.7406646013259888
+      },
+      {
+        "pmid": "32375896",
+        "title": "T",
+        "journal": "Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance",
+        "year": 2020.0,
+        "authors": [
+          "Gabriella Captur",
+          "Abhiyan Bhandari",
+          "Richard J Eames",
+          "Giulia Benedetti",
+          "Lewis Ricketts",
+          "Redha Boubertakh",
+          "Nasri Fatih",
+          "John P Greenwood",
+          "Chris B Lawton",
+          "Chiara Bucciarelli-Ducci",
+          "Richard Steeds",
+          "Steve W Leung",
+          "Colin Berry",
+          "Andrew Flett",
+          "David M Higgins",
+          "Dana Dawson",
+          "Sven Plein",
+          "Nish Chaturvedi",
+          "Peter Gatehouse",
+          "James C Moon",
+          "Andrea Barison",
+          "R\u00fcdiger Br\u00fchl",
+          "Bernd Ittermann",
+          "Kathryn E Keenan",
+          "Ye Yang",
+          "Camilla Torlasco",
+          "Leonie E M Paulis",
+          "Hildo J Lamb",
+          "Sinitsyn Valentin",
+          "Charlotte de Lange",
+          "Francesco DeCobelli",
+          "Magalie Viallon",
+          "Pierre Croisille",
+          "Andreas Greiser",
+          "Wenjie Pang",
+          "Christian Hamilton-Craig",
+          "Wendy E Strugnell",
+          "Tom Dresselaers",
+          "Andrew J Taylor",
+          "Fran\u00e7ois-Pierre Mongeon",
+          "Daniel Messroghli",
+          "Mouaz Al-Mallah",
+          "Stuart M Grieve",
+          "Massimo Lombardi",
+          "Jihye Jang",
+          "Michael Salerno",
+          "Peter Kellman",
+          "David A Bluemke",
+          "Reza Nezafat"
+        ],
+        "institutions": [
+          "University College London",
+          "Imperial College London",
+          "University of Leeds"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7397398352622986
+      },
+      {
+        "pmid": "26796797",
+        "title": "Consent Codes: Upholding Standard Data Use Conditions.",
+        "journal": "PLoS genetics",
+        "year": 2016.0,
+        "authors": [
+          "Anthony J Brookes",
+          "Anthony A Philippakis",
+          "J Dylan Spalding",
+          "Matthew Hurles",
+          "Heidi L Rehm",
+          "Stephanie O M Dyke",
+          "Jordi Rambla De Argila",
+          "Dina N Paltoo",
+          "Erin S Luetkemeier",
+          "Bartha M Knoppers",
+          "Mark Thompson",
+          "Marco Roos",
+          "Kym M Boycott",
+          "Michael Brudno",
+          "Andreas Matern",
+          "Marc Fiume",
+          "Stephen T Sherry"
+        ],
+        "institutions": [
+          "European Bioinformatics Institute",
+          "Wellcome Sanger Institute"
+        ],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7330005764961243
+      },
+      {
+        "pmid": "33247021",
+        "title": "Dementias Platform UK Clinical Studies and Great Minds Register: protocol of a targeted brain health studies recontact database.",
+        "journal": "BMJ open",
+        "year": 2020.0,
+        "authors": [
+          "Ivan Koychev",
+          "Simon Young",
+          "Heather Holve",
+          "Michael Ben Yehuda",
+          "John Gallacher"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Federated Human Data"
+        ],
+        "score": 0.7302649617195129
+      },
+      {
+        "pmid": "26199410",
+        "title": "The atlas of mouse development eHistology resource.",
+        "journal": "Development (Cambridge, England)",
+        "year": 2015.0,
+        "authors": [
+          "Yogmatee Roochun",
+          "Richard Baldock"
+        ],
+        "institutions": [
+          "University of Edinburgh"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7275731563568115
+      },
+      {
+        "pmid": "39355332",
+        "title": "Introducing co-review to",
+        "journal": "RSC advances",
+        "year": 2024.0,
+        "authors": [],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7253854870796204
+      },
+      {
+        "pmid": "31488492",
+        "title": "Zoledronate in the prevention of Paget's (ZiPP): protocol for a randomised trial of genetic testing and targeted zoledronic acid therapy to prevent",
+        "journal": "BMJ open",
+        "year": 2019.0,
+        "authors": [
+          "Rama Chandra",
+          "Owen Cronin",
+          "Laura Forsyth",
+          "Kirsteen Goodman",
+          "Steff C Lewis",
+          "Catriona Keerie",
+          "Allan Walker",
+          "Mary Porteous",
+          "Roseanne Cetnarskyj",
+          "Lakshminarayan R Ranganath",
+          "Peter L Selby",
+          "Geeta Hampson",
+          "Shu Ho",
+          "Jon H Tobias",
+          "William D Fraser",
+          "Markus J Seibel",
+          "Gabor Major",
+          "Gordon D Murray",
+          "Keith Charnock",
+          "Diana Wilkinson",
+          "R Graham G Russell",
+          "Stuart H Ralston",
+          "Malachi J McKenna",
+          "Rachel K Crowley",
+          "Luigi Gennari",
+          "Ranuccio Nuti",
+          "Maria Luisa Brandi",
+          "Javier Del Pino-Montes",
+          "Jean-Pierre Devogelaer",
+          "Anne Durnez",
+          "Giancarlo Isaia",
+          "Marco Di Stefano",
+          "N\u00faria Gua\u00f1abens",
+          "Josep Blanch",
+          "John P Walsh",
+          "Mark A Kotowicz",
+          "Geoffrey C Nicholson",
+          "Emma L Duncan",
+          "Anne Horne",
+          "Nigel L Gilchrist",
+          "Maarten Boers"
+        ],
+        "institutions": [
+          "University of Edinburgh",
+          "University of Liverpool",
+          "University of Manchester",
+          "Newcastle University"
+        ],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7251676917076111
+      },
+      {
+        "pmid": "40435106",
+        "title": "The UK Biobank mental health enhancement 2022: Methods and results.",
+        "journal": "PloS one",
+        "year": 2025.0,
+        "authors": [
+          "Katrina A S Davis",
+          "Jonathan R I Coleman",
+          "Mark Adams",
+          "Gerome Breen",
+          "Helena L Davies",
+          "Kelly Davies",
+          "Alexandru Dregan",
+          "Thalia C Eley",
+          "Jo Holliday",
+          "Christopher H\u00fcbel",
+          "Ann John",
+          "Aliyah S Kassam",
+          "Matthew J Kempton",
+          "William Lee",
+          "Danyang Li",
+          "Jared Maina",
+          "Rose McCabe",
+          "Andrew M McIntosh",
+          "Sian Oram",
+          "Marcus Richards",
+          "Megan Skelton",
+          "Fenella Starkey",
+          "Abigail R Ter Kuile",
+          "Rujia Wang",
+          "Zhaoying Yu",
+          "Johan Zvrskovec",
+          "Matthew Hotopf",
+          "Na Cai",
+          "Elaine Fox",
+          "Laura M Thornton"
+        ],
+        "institutions": [
+          "King's College London",
+          "University of Edinburgh",
+          "University of Oxford",
+          "University College London"
+        ],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7241218090057373
+      },
+      {
+        "pmid": "40617622",
+        "title": "Investigating the eye in Down syndrome as a window to Alzheimer's disease: the REVEAL protocol - a clinical cross-sectional study.",
+        "journal": "BMJ open",
+        "year": 2025.0,
+        "authors": [
+          "Aoife Mary Louise Hunter",
+          "Sarah Atkinson",
+          "Elaine Murray",
+          "Kathryn Saunders",
+          "Tunde Peto",
+          "Lajos Csincsik",
+          "Jamie Mitchell",
+          "Henrik Zetterberg",
+          "Andr\u00e9 Strydom",
+          "Julie-Anne Little",
+          "Imre Lengyel"
+        ],
+        "institutions": [
+          "University College London",
+          "King's College London"
+        ],
+        "themes": [
+          "Federated Human Data",
+          "Single-Cell Omics"
+        ],
+        "score": 0.7209604382514954
+      },
+      {
+        "pmid": "35372651",
+        "title": "Advances in spiral fMRI: A high-resolution dataset.",
+        "journal": "Data in brief",
+        "year": 2022.0,
+        "authors": [
+          "Nadine N Graedel",
+          "Klaas Enno Stephan",
+          "Lars Kasper",
+          "Jakob Heinzle",
+          "Matthias Mueller-Schrader"
+        ],
+        "institutions": [
+          "University of Oxford",
+          "University College London"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7199946641921997
+      }
+    ],
+    "themes_results": [],
+    "seeds_experts": [
+      {
+        "name": "Susanna-Assunta Sansone",
+        "paper_count": 2
+      },
+      {
+        "name": "Stephanie O M Dyke",
+        "paper_count": 2
+      },
+      {
+        "name": "Andrew M McIntosh",
+        "paper_count": 2
+      },
+      {
+        "name": "Sandra Orchard",
+        "paper_count": 2
+      },
+      {
+        "name": "Henning Hermjakob",
+        "paper_count": 2
+      }
+    ],
+    "themes_experts": [],
+    "analysis": {
+      "seeds_paper_count": 10,
+      "themes_paper_count": 0,
+      "seeds_expert_count": 5,
+      "themes_expert_count": 0,
+      "seeds_quality": 0.6,
+      "themes_quality": 0.0
+    }
+  },
+  {
+    "query": "machine learning bioinformatics",
+    "seeds_results": [
+      {
+        "pmid": "29485623",
+        "title": "High-quality science requires high-quality open data infrastructure.",
+        "journal": "Scientific data",
+        "year": 2018.0,
+        "authors": [
+          "Susanna-Assunta Sansone",
+          "Mark Thorley",
+          "Patricia Cruse"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Cancer Data"
+        ],
+        "score": 0.7653506398200989
+      },
+      {
+        "pmid": "31831744",
+        "title": "Experiment design driven FAIRification of omics data matrices, an exemplar.",
+        "journal": "Scientific data",
+        "year": 2019.0,
+        "authors": [
+          "Philippe Rocca-Serra",
+          "Susanna-Assunta Sansone"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Cancer Data"
+        ],
+        "score": 0.7641526460647583
+      },
+      {
+        "pmid": "34671039",
+        "title": "NERO: a biomedical named-entity (recognition) ontology with a large, annotated corpus reveals meaningful associations through text embedding.",
+        "journal": "NPJ systems biology and applications",
+        "year": 2021.0,
+        "authors": [
+          "Robert Stevens",
+          "Larisa Soldatova",
+          "Ross King",
+          "Sophia Ananiadou",
+          "Annika M Schoene",
+          "Maolin Li",
+          "Fenia Christopoulou",
+          "Kanix Wang",
+          "Halima Alachram",
+          "Yu Li",
+          "Jos\u00e9 Luis Ambite",
+          "Joel Matthew",
+          "Sahil Garg",
+          "Ulf Hermjakob",
+          "Daniel Marcu",
+          "Emily Sheng",
+          "Tim Bei\u00dfbarth",
+          "Edgar Wingender",
+          "Aram Galstyan",
+          "Xin Gao",
+          "Brendan Chambers",
+          "Weidi Pan",
+          "Bohdan B Khomtchouk",
+          "James A Evans",
+          "Andrey Rzhetsky"
+        ],
+        "institutions": [
+          "University of Manchester",
+          "University of Cambridge"
+        ],
+        "themes": [
+          "Intrinsically Disordered Proteins (IDP)"
+        ],
+        "score": 0.7639756798744202
+      },
+      {
+        "pmid": "33275434",
+        "title": "",
+        "journal": "Nano letters",
+        "year": 2021.0,
+        "authors": [
+          "Wooli Bae",
+          "Guy-Bart V Stan",
+          "Thomas E Ouldridge"
+        ],
+        "institutions": [
+          "Imperial College London"
+        ],
+        "themes": [
+          "Microbial Biotechnology"
+        ],
+        "score": 0.7632175087928772
+      },
+      {
+        "pmid": "33965931",
+        "title": "Enabling FAIR Discovery of Rare Disease Digital Resources.",
+        "journal": "Studies in health technology and informatics",
+        "year": 2021.0,
+        "authors": [
+          "N\u00faria Queralt Rosinach",
+          "Kees Burger",
+          "Luiz Olavo Bonino da Silva Santos",
+          "Marc Hanauer"
+        ],
+        "institutions": [],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7615792155265808
+      },
+      {
+        "pmid": "12855473",
+        "title": "myGrid: personalised bioinformatics on the information grid.",
+        "journal": "Bioinformatics (Oxford, England)",
+        "year": 2003.0,
+        "authors": [
+          "Robert D Stevens",
+          "Alan J Robinson"
+        ],
+        "institutions": [
+          "University of Manchester"
+        ],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7612482905387878
+      },
+      {
+        "pmid": "16527832",
+        "title": "The SBML ODE Solver Library: a native API for symbolic and fast numerical analysis of reaction networks.",
+        "journal": "Bioinformatics (Oxford, England)",
+        "year": 2006.0,
+        "authors": [
+          "Stefan M\u00fcller",
+          "Rainer Machn\u00e9",
+          "Stefanie Widder",
+          "Christoph Flamm"
+        ],
+        "institutions": [],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7610791325569153
+      },
+      {
+        "pmid": "37555138",
+        "title": "Cumulant expansion with localization: A new representation of the diffusion MRI signal.",
+        "journal": "Frontiers in neuroimaging",
+        "year": 2022.0,
+        "authors": [
+          "Maryam Afzali",
+          "J\u00fcrgen E Schneider",
+          "Tomasz Pieciak",
+          "Evren \u00d6zarslan"
+        ],
+        "institutions": [
+          "Cardiff University",
+          "University of Leeds"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.759559154510498
+      },
+      {
+        "pmid": "23631413",
+        "title": "A data-driven approach to preprocessing Illumina 450K methylation array data.",
+        "journal": "BMC genomics",
+        "year": 2013.0,
+        "authors": [
+          "Ruth Pidsley",
+          "Chloe C Y Wong"
+        ],
+        "institutions": [
+          "King's College London"
+        ],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7593288421630859
+      },
+      {
+        "pmid": "37113250",
+        "title": "nestedcv: an R package for fast implementation of nested cross-validation with embedded feature selection designed for transcriptomics and high-dimensional data.",
+        "journal": "Bioinformatics advances",
+        "year": 2023.0,
+        "authors": [
+          "Myles J Lewis",
+          "Athina Spiliopoulou",
+          "Katriona Goldmann",
+          "Costantino Pitzalis",
+          "Paul McKeigue",
+          "Michael R Barnes"
+        ],
+        "institutions": [
+          "University of Edinburgh"
+        ],
+        "themes": [
+          "Metabolomics"
+        ],
+        "score": 0.7583858370780945
+      }
+    ],
+    "themes_results": [],
+    "seeds_experts": [
+      {
+        "name": "Susanna-Assunta Sansone",
+        "paper_count": 3
+      },
+      {
+        "name": "Henning Hermjakob",
+        "paper_count": 3
+      },
+      {
+        "name": "Philippe Rocca-Serra",
+        "paper_count": 2
+      },
+      {
+        "name": "Nicola Bordin",
+        "paper_count": 2
+      },
+      {
+        "name": "Mark Thorley",
+        "paper_count": 1
+      }
+    ],
+    "themes_experts": [],
+    "analysis": {
+      "seeds_paper_count": 10,
+      "themes_paper_count": 0,
+      "seeds_expert_count": 5,
+      "themes_expert_count": 0,
+      "seeds_quality": 0.6,
+      "themes_quality": 0.0
+    }
+  },
+  {
+    "query": "proteomics experts",
+    "seeds_results": [
+      {
+        "pmid": "29485623",
+        "title": "High-quality science requires high-quality open data infrastructure.",
+        "journal": "Scientific data",
+        "year": 2018.0,
+        "authors": [
+          "Susanna-Assunta Sansone",
+          "Mark Thorley",
+          "Patricia Cruse"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Cancer Data"
+        ],
+        "score": 0.7311283946037292
+      },
+      {
+        "pmid": "32375896",
+        "title": "T",
+        "journal": "Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance",
+        "year": 2020.0,
+        "authors": [
+          "Gabriella Captur",
+          "Abhiyan Bhandari",
+          "Richard J Eames",
+          "Giulia Benedetti",
+          "Lewis Ricketts",
+          "Redha Boubertakh",
+          "Nasri Fatih",
+          "John P Greenwood",
+          "Chris B Lawton",
+          "Chiara Bucciarelli-Ducci",
+          "Richard Steeds",
+          "Steve W Leung",
+          "Colin Berry",
+          "Andrew Flett",
+          "David M Higgins",
+          "Dana Dawson",
+          "Sven Plein",
+          "Nish Chaturvedi",
+          "Peter Gatehouse",
+          "James C Moon",
+          "Andrea Barison",
+          "R\u00fcdiger Br\u00fchl",
+          "Bernd Ittermann",
+          "Kathryn E Keenan",
+          "Ye Yang",
+          "Camilla Torlasco",
+          "Leonie E M Paulis",
+          "Hildo J Lamb",
+          "Sinitsyn Valentin",
+          "Charlotte de Lange",
+          "Francesco DeCobelli",
+          "Magalie Viallon",
+          "Pierre Croisille",
+          "Andreas Greiser",
+          "Wenjie Pang",
+          "Christian Hamilton-Craig",
+          "Wendy E Strugnell",
+          "Tom Dresselaers",
+          "Andrew J Taylor",
+          "Fran\u00e7ois-Pierre Mongeon",
+          "Daniel Messroghli",
+          "Mouaz Al-Mallah",
+          "Stuart M Grieve",
+          "Massimo Lombardi",
+          "Jihye Jang",
+          "Michael Salerno",
+          "Peter Kellman",
+          "David A Bluemke",
+          "Reza Nezafat"
+        ],
+        "institutions": [
+          "University College London",
+          "Imperial College London",
+          "University of Leeds"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7284671068191528
+      },
+      {
+        "pmid": "38396714",
+        "title": "",
+        "journal": "International journal of molecular sciences",
+        "year": 2024.0,
+        "authors": [
+          "Yiming Huang",
+          "Bingshuai Du",
+          "Mingxin Yu",
+          "Yibo Cao",
+          "Kehao Liang",
+          "Lingyun Zhang"
+        ],
+        "institutions": [],
+        "themes": [
+          "Intrinsically Disordered Proteins (IDP)"
+        ],
+        "score": 0.7277055978775024
+      },
+      {
+        "pmid": "39989069",
+        "title": "[LBD gene family in",
+        "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+        "year": 2025.0,
+        "authors": [
+          "Xinjuan Li",
+          "Panpan Yang",
+          "Tian Zhang",
+          "Qiandan Ren",
+          "Wu Zhou"
+        ],
+        "institutions": [],
+        "themes": [
+          "Intrinsically Disordered Proteins (IDP)"
+        ],
+        "score": 0.726557731628418
+      },
+      {
+        "pmid": "33275434",
+        "title": "",
+        "journal": "Nano letters",
+        "year": 2021.0,
+        "authors": [
+          "Wooli Bae",
+          "Guy-Bart V Stan",
+          "Thomas E Ouldridge"
+        ],
+        "institutions": [
+          "Imperial College London"
+        ],
+        "themes": [
+          "Microbial Biotechnology"
+        ],
+        "score": 0.7260627150535583
+      },
+      {
+        "pmid": "16167370",
+        "title": "Further steps in standardisation. Report of the second annual Proteomics Standards Initiative Spring Workshop (Siena, Italy 17-20th April 2005).",
+        "journal": "Proteomics",
+        "year": 2005.0,
+        "authors": [
+          "Sandra Orchard"
+        ],
+        "institutions": [
+          "European Bioinformatics Institute"
+        ],
+        "themes": [
+          "Plant Sciences",
+          "Single-Cell Omics"
+        ],
+        "score": 0.7256579399108887
+      },
+      {
+        "pmid": "38117209",
+        "title": "Solvent-Modulated Specific Ion Effects: Poly(",
+        "journal": "Langmuir : the ACS journal of surfaces and colloids",
+        "year": 2024.0,
+        "authors": [
+          "Hayden Robertson",
+          "Andrew R J Nelson",
+          "Edwin C Johnson",
+          "Joshua D Willott",
+          "Stuart W Prescott",
+          "Grant B Webber",
+          "Erica J Wanless",
+          "Isaac J Gresham",
+          "Kasimir P Gregory"
+        ],
+        "institutions": [
+          "Newcastle University"
+        ],
+        "themes": [
+          "Intrinsically Disordered Proteins (IDP)"
+        ],
+        "score": 0.7255570292472839
+      },
+      {
+        "pmid": "33523652",
+        "title": "",
+        "journal": "Bioconjugate chemistry",
+        "year": 2021.0,
+        "authors": [
+          "Julien C Vantourout",
+          "Josephine Yuen",
+          "Ghotas Evindar",
+          "Letian Kuai",
+          "Xiaopeng Bai",
+          "Eric Shi",
+          "Steven Skinner",
+          "Christopher Arico-Muendel",
+          "Andrew M Mason",
+          "Graham L Simpson",
+          "Michael Hobbs",
+          "Emma Edgar",
+          "Saul Needle",
+          "Steve Wilson",
+          "Paul Scott-Stevens",
+          "William Traylen",
+          "Kim Lambert",
+          "Neil Young",
+          "Shenaz Bunally",
+          "Scott G Summerfield",
+          "Richard Snell",
+          "Rakesh Lad",
+          "Lisa Shewchuk",
+          "Allan J B Watson",
+          "Chun-Wa Chung",
+          "Sandeep Pal",
+          "Dennis A Holt",
+          "Lara S Kallander",
+          "Joanne Prendergast",
+          "Katrina Rivera",
+          "David G Washburn",
+          "Mark R Harpel",
+          "Albert Isidro-Llobet"
+        ],
+        "institutions": [
+          "University of Glasgow"
+        ],
+        "themes": [
+          "Intrinsically Disordered Proteins (IDP)"
+        ],
+        "score": 0.7242761254310608
+      },
+      {
+        "pmid": "33511375",
+        "title": "Primary human colonic mucosal barrier crosstalk with super oxygen-sensitive",
+        "journal": "Med (New York, N.Y.)",
+        "year": 2021.0,
+        "authors": [
+          "Jun Young Yoon",
+          "Brij Bhushan",
+          "David L Trumper",
+          "Linda G Griffith",
+          "Rebecca L Carrier",
+          "Jianbo Zhang",
+          "Yu-Ja Huang",
+          "John Kemmitt",
+          "Charles Wright",
+          "Kirsten Schneider",
+          "Pierre Sphabmixay",
+          "Victor Hernandez-Gordillo",
+          "Steven J Holcomb",
+          "Gar Rohatgi",
+          "Kyle Benton",
+          "David Carpenter",
+          "Jemila C Kester",
+          "George Eng",
+          "David T Breault",
+          "Omer Yilmaz",
+          "Mao Taketani",
+          "Christopher A Voigt"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.72367262840271
+      },
+      {
+        "pmid": "36744229",
+        "title": "",
+        "journal": "Frontiers in veterinary science",
+        "year": 2022.0,
+        "authors": [
+          "Peymaneh Davoodi",
+          "Mostafa Ghaderi-Zefrehei",
+          "Mustafa Muhaghegh Dolatabady",
+          "Mohammad Razmkabir",
+          "Somayeh Kianpour",
+          "Effat Nasre Esfahani"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.723048985004425
+      }
+    ],
+    "themes_results": [
+      {
+        "pmid": "37373578",
+        "title": "The Promise of Single-Cell RNA Sequencing to Redefine the Understanding of Crohn's Disease Fibrosis Mechanisms.",
+        "journal": "Journal of clinical medicine",
+        "year": 2023.0,
+        "authors": [
+          "Iona Campbell",
+          "Michael Glinka",
+          "Fadlo Shaban",
+          "Kathryn J Kirkwood",
+          "Francesca Nadalin",
+          "David Adams",
+          "Irene Papatheodorou",
+          "Albert Burger",
+          "Richard A Baldock",
+          "Mark J Arends",
+          "Shahida Din"
+        ],
+        "institutions": [
+          "University of Edinburgh",
+          "University of Cambridge"
+        ],
+        "themes": [
+          "Proteomics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Proteomics"
+        ]
+      },
+      {
+        "pmid": "33468678",
+        "title": "The Tiger Rattlesnake genome reveals a complex genotype underlying a simple venom phenotype.",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "year": 2021.0,
+        "authors": [
+          "Mark J Margres",
+          "Michael P Hogan",
+          "Gunnar S Nystrom",
+          "Schyler A Ellsworth",
+          "Jason L Strickland",
+          "Darin R Rokyta",
+          "Rhett M Rautsaw",
+          "Erich P Hofmann",
+          "Timothy J Colston",
+          "Andrew J Mason",
+          "Tristan D Schramer",
+          "Erin Stiers",
+          "Daniel A Bartlett",
+          "David M Gilbert",
+          "Christopher L Parkinson"
+        ],
+        "institutions": [],
+        "themes": [
+          "Proteomics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Proteomics"
+        ]
+      },
+      {
+        "pmid": "28482840",
+        "title": "Blood and sputum eosinophils in COPD; relationship with bacterial load.",
+        "journal": "Respiratory research",
+        "year": 2017.0,
+        "authors": [
+          "Umme Kolsum",
+          "Richa Singh",
+          "Bethan L Barker",
+          "Vandana Gupta",
+          "Leena George",
+          "Adam J Webb",
+          "Sarah Thurston",
+          "Christopher E Brightling",
+          "Dave Singh"
+        ],
+        "institutions": [
+          "University of Manchester",
+          "Imperial College London",
+          "University College London"
+        ],
+        "themes": [
+          "Proteomics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Proteomics"
+        ]
+      },
+      {
+        "pmid": "23742985",
+        "title": "Automated design of paralogue ratio test assays for the accurate and rapid typing of copy number variation.",
+        "journal": "Bioinformatics (Oxford, England)",
+        "year": 2013.0,
+        "authors": [
+          "Colin D Veal",
+          "Hang Xu",
+          "Katherine Reekie",
+          "Robert Free",
+          "Robert J Hardwick",
+          "David McVey",
+          "Edward J Hollox",
+          "Christopher J Talbot"
+        ],
+        "institutions": [],
+        "themes": [
+          "Human Copy Number Variation",
+          "Proteomics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Proteomics"
+        ]
+      },
+      {
+        "pmid": "22121152",
+        "title": "Targeted enrichment of genomic DNA regions for next-generation sequencing.",
+        "journal": "Briefings in functional genomics",
+        "year": 2011.0,
+        "authors": [
+          "Florian Mertes",
+          "Abdou Elsharawy",
+          "Sascha Sauer",
+          "Joop M L M van Helvoort",
+          "P J van der Zaag",
+          "Mats Nilsson"
+        ],
+        "institutions": [],
+        "themes": [
+          "Proteomics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Proteomics"
+        ]
+      },
+      {
+        "pmid": "33916259",
+        "title": "Computational Strategies for the Identification of a Transcriptional Biomarker Panel to Sense Cellular Growth States in",
+        "journal": "Sensors (Basel, Switzerland)",
+        "year": 2021.0,
+        "authors": [
+          "Yiming Huang",
+          "Wendy Smith",
+          "Colin Harwood",
+          "Anil Wipat",
+          "Jaume Bacardit"
+        ],
+        "institutions": [
+          "Newcastle University"
+        ],
+        "themes": [
+          "Proteomics",
+          "Microbial Biotechnology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Proteomics"
+        ]
+      },
+      {
+        "pmid": "32786354",
+        "title": "Capturing Multicellular System Designs Using Synthetic Biology Open Language (SBOL).",
+        "journal": "ACS synthetic biology",
+        "year": 2020.0,
+        "authors": [
+          "Bradley Brown",
+          "Bryan Bartley",
+          "Jacob Beal",
+          "Jasmine E Bird",
+          "\u00c1ngel Go\u00f1i-Moreno",
+          "James Alastair McLaughlin",
+          "G\u00f6ksel M\u0131s\u0131rl\u0131",
+          "Nicholas Roehner",
+          "David James Skelton",
+          "Irina Dana Ofiteru",
+          "Katherine James",
+          "Anil Wipat",
+          "Chueh Loo Poh"
+        ],
+        "institutions": [
+          "Newcastle University"
+        ],
+        "themes": [
+          "Galaxy",
+          "Proteomics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Proteomics"
+        ]
+      },
+      {
+        "pmid": "40583561",
+        "title": "Familial ALS/FTD-associated RNA-binding deficient TDP-43 mutants cause neuronal and synaptic transcript dysregulation in vitro.",
+        "journal": "Human molecular genetics",
+        "year": 2025.0,
+        "authors": [
+          "Molly Magarotto",
+          "Richard T Gawne",
+          "Gabriele Vilkaite",
+          "Marcello Beltrami",
+          "Andrew S Mason",
+          "Han-Jou Chen"
+        ],
+        "institutions": [],
+        "themes": [
+          "Proteomics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Proteomics"
+        ]
+      },
+      {
+        "pmid": "30016375",
+        "title": "Mild hydrostatic pressure triggers oxidative responses in Escherichia coli.",
+        "journal": "PloS one",
+        "year": 2018.0,
+        "authors": [
+          "Aurelie Guyet",
+          "Martyn Dade-Robertson",
+          "Anil Wipat",
+          "John Casement",
+          "Wendy Smith",
+          "Helen Mitrani",
+          "Meng Zhang"
+        ],
+        "institutions": [
+          "Newcastle University"
+        ],
+        "themes": [
+          "Proteomics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Proteomics"
+        ]
+      },
+      {
+        "pmid": "16372134",
+        "title": "Quantitative trait loci in ABCA1 modify cerebrospinal fluid amyloid-beta 1-42 and plasma apolipoprotein levels.",
+        "journal": "Journal of human genetics",
+        "year": 2006.0,
+        "authors": [
+          "Anthony J Brookes",
+          "Hagit Katzov",
+          "Anna M Bennet",
+          "Kina H\u00f6glund",
+          "Bj\u00f6rn Wiman",
+          "Dieter L\u00fctjohann",
+          "Niels Andreasen",
+          "Kaj Blennow",
+          "Ulf De Faire",
+          "Jonathan A Prince"
+        ],
+        "institutions": [],
+        "themes": [
+          "Proteomics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Proteomics"
+        ]
+      }
+    ],
+    "seeds_experts": [
+      {
+        "name": "Susanna-Assunta Sansone",
+        "paper_count": 2
+      },
+      {
+        "name": "Lars Kasper",
+        "paper_count": 2
+      },
+      {
+        "name": "Mark Thorley",
+        "paper_count": 1
+      },
+      {
+        "name": "Patricia Cruse",
+        "paper_count": 1
+      },
+      {
+        "name": "Gabriella Captur",
+        "paper_count": 1
+      }
+    ],
+    "themes_experts": [
+      {
+        "name": "Eleni Giannoulatou",
+        "paper_count": 4
+      },
+      {
+        "name": "Christine A Orengo",
+        "paper_count": 3
+      },
+      {
+        "name": "Anil Wipat",
+        "paper_count": 3
+      },
+      {
+        "name": "Jonathan G Lees",
+        "paper_count": 2
+      },
+      {
+        "name": "Natalie L Dawson",
+        "paper_count": 2
+      }
+    ],
+    "analysis": {
+      "seeds_paper_count": 10,
+      "themes_paper_count": 10,
+      "seeds_expert_count": 5,
+      "themes_expert_count": 5,
+      "seeds_quality": 0.6,
+      "themes_quality": 0.6,
+      "overlap_papers": 0,
+      "overlap_ratio": 0.0
+    }
+  },
+  {
+    "query": "single-cell analysis",
+    "seeds_results": [
+      {
+        "pmid": "33275434",
+        "title": "",
+        "journal": "Nano letters",
+        "year": 2021.0,
+        "authors": [
+          "Wooli Bae",
+          "Guy-Bart V Stan",
+          "Thomas E Ouldridge"
+        ],
+        "institutions": [
+          "Imperial College London"
+        ],
+        "themes": [
+          "Microbial Biotechnology"
+        ],
+        "score": 0.7347673773765564
+      },
+      {
+        "pmid": "28774650",
+        "title": "Rapid anatomical brain imaging using spiral acquisition and an expanded signal model.",
+        "journal": "NeuroImage",
+        "year": 2018.0,
+        "authors": [
+          "Klaas E Stephan",
+          "Maria Engel",
+          "Bertram J Wilm",
+          "Klaas P Pruessmann",
+          "Thomas Schmid",
+          "Lars Kasper",
+          "Christoph Barmet",
+          "Maximilian Haeberlin",
+          "Benjamin E Dietrich",
+          "Simon Gross",
+          "David O Brunner"
+        ],
+        "institutions": [
+          "University College London"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7292116284370422
+      },
+      {
+        "pmid": "35372651",
+        "title": "Advances in spiral fMRI: A high-resolution dataset.",
+        "journal": "Data in brief",
+        "year": 2022.0,
+        "authors": [
+          "Nadine N Graedel",
+          "Klaas Enno Stephan",
+          "Lars Kasper",
+          "Jakob Heinzle",
+          "Matthias Mueller-Schrader"
+        ],
+        "institutions": [
+          "University of Oxford",
+          "University College London"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7281807661056519
+      },
+      {
+        "pmid": "37555138",
+        "title": "Cumulant expansion with localization: A new representation of the diffusion MRI signal.",
+        "journal": "Frontiers in neuroimaging",
+        "year": 2022.0,
+        "authors": [
+          "Maryam Afzali",
+          "J\u00fcrgen E Schneider",
+          "Tomasz Pieciak",
+          "Evren \u00d6zarslan"
+        ],
+        "institutions": [
+          "Cardiff University",
+          "University of Leeds"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.726680338382721
+      },
+      {
+        "pmid": "28145865",
+        "title": "Fluctuations of the transcription factor ATML1 generate the pattern of giant cells in the",
+        "journal": "eLife",
+        "year": 2017.0,
+        "authors": [
+          "Jos\u00e9 Teles",
+          "Pau Formosa-Jordan",
+          "Yassin Refahi",
+          "Henrik J\u00f6nsson",
+          "James C W Locke",
+          "Heather M Meyer",
+          "Rita San-Bento",
+          "Gwyneth Ingram",
+          "Adrienne H K Roeder"
+        ],
+        "institutions": [
+          "University of Cambridge"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7250199913978577
+      },
+      {
+        "pmid": "33523652",
+        "title": "",
+        "journal": "Bioconjugate chemistry",
+        "year": 2021.0,
+        "authors": [
+          "Julien C Vantourout",
+          "Josephine Yuen",
+          "Ghotas Evindar",
+          "Letian Kuai",
+          "Xiaopeng Bai",
+          "Eric Shi",
+          "Steven Skinner",
+          "Christopher Arico-Muendel",
+          "Andrew M Mason",
+          "Graham L Simpson",
+          "Michael Hobbs",
+          "Emma Edgar",
+          "Saul Needle",
+          "Steve Wilson",
+          "Paul Scott-Stevens",
+          "William Traylen",
+          "Kim Lambert",
+          "Neil Young",
+          "Shenaz Bunally",
+          "Scott G Summerfield",
+          "Richard Snell",
+          "Rakesh Lad",
+          "Lisa Shewchuk",
+          "Allan J B Watson",
+          "Chun-Wa Chung",
+          "Sandeep Pal",
+          "Dennis A Holt",
+          "Lara S Kallander",
+          "Joanne Prendergast",
+          "Katrina Rivera",
+          "David G Washburn",
+          "Mark R Harpel",
+          "Albert Isidro-Llobet"
+        ],
+        "institutions": [
+          "University of Glasgow"
+        ],
+        "themes": [
+          "Intrinsically Disordered Proteins (IDP)"
+        ],
+        "score": 0.7232255339622498
+      },
+      {
+        "pmid": "38117209",
+        "title": "Solvent-Modulated Specific Ion Effects: Poly(",
+        "journal": "Langmuir : the ACS journal of surfaces and colloids",
+        "year": 2024.0,
+        "authors": [
+          "Hayden Robertson",
+          "Andrew R J Nelson",
+          "Edwin C Johnson",
+          "Joshua D Willott",
+          "Stuart W Prescott",
+          "Grant B Webber",
+          "Erica J Wanless",
+          "Isaac J Gresham",
+          "Kasimir P Gregory"
+        ],
+        "institutions": [
+          "Newcastle University"
+        ],
+        "themes": [
+          "Intrinsically Disordered Proteins (IDP)"
+        ],
+        "score": 0.7228690981864929
+      },
+      {
+        "pmid": "32375896",
+        "title": "T",
+        "journal": "Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance",
+        "year": 2020.0,
+        "authors": [
+          "Gabriella Captur",
+          "Abhiyan Bhandari",
+          "Richard J Eames",
+          "Giulia Benedetti",
+          "Lewis Ricketts",
+          "Redha Boubertakh",
+          "Nasri Fatih",
+          "John P Greenwood",
+          "Chris B Lawton",
+          "Chiara Bucciarelli-Ducci",
+          "Richard Steeds",
+          "Steve W Leung",
+          "Colin Berry",
+          "Andrew Flett",
+          "David M Higgins",
+          "Dana Dawson",
+          "Sven Plein",
+          "Nish Chaturvedi",
+          "Peter Gatehouse",
+          "James C Moon",
+          "Andrea Barison",
+          "R\u00fcdiger Br\u00fchl",
+          "Bernd Ittermann",
+          "Kathryn E Keenan",
+          "Ye Yang",
+          "Camilla Torlasco",
+          "Leonie E M Paulis",
+          "Hildo J Lamb",
+          "Sinitsyn Valentin",
+          "Charlotte de Lange",
+          "Francesco DeCobelli",
+          "Magalie Viallon",
+          "Pierre Croisille",
+          "Andreas Greiser",
+          "Wenjie Pang",
+          "Christian Hamilton-Craig",
+          "Wendy E Strugnell",
+          "Tom Dresselaers",
+          "Andrew J Taylor",
+          "Fran\u00e7ois-Pierre Mongeon",
+          "Daniel Messroghli",
+          "Mouaz Al-Mallah",
+          "Stuart M Grieve",
+          "Massimo Lombardi",
+          "Jihye Jang",
+          "Michael Salerno",
+          "Peter Kellman",
+          "David A Bluemke",
+          "Reza Nezafat"
+        ],
+        "institutions": [
+          "University College London",
+          "Imperial College London",
+          "University of Leeds"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7213444113731384
+      },
+      {
+        "pmid": "37260417",
+        "title": "Automated Patch Clamp Screening of Amiloride and 5-",
+        "journal": "Molecular pharmaceutics",
+        "year": 2023.0,
+        "authors": [
+          "David J Adams",
+          "Rocio K Finol-Urdaneta",
+          "Jeffrey R McArthur",
+          "Ashraf Aboelela",
+          "Richard S Bujaroski",
+          "Hiwa Majed",
+          "Alejandra Rangel",
+          "Marie Ranson",
+          "Michael J Kelso",
+          "Benjamin J Buckley"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7162213325500488
+      },
+      {
+        "pmid": "31441537",
+        "title": "Whole brain",
+        "journal": "Magnetic resonance in medicine",
+        "year": 2020.0,
+        "authors": [
+          "Benjamin C Rowland",
+          "Mohamed Tachrount",
+          "Dennis W J Klomp",
+          "Debra Rivera",
+          "Ria Forner",
+          "Anh Pham",
+          "Michel Italiaander"
+        ],
+        "institutions": [
+          "University of Manchester",
+          "Cardiff University"
+        ],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.715232253074646
+      }
+    ],
+    "themes_results": [
+      {
+        "pmid": "33607059",
+        "title": "Array-based dynamic allele specific hybridization (Array-DASH): Optimization-free microarray processing for multiple simultaneous genomic assays.",
+        "journal": "Analytical biochemistry",
+        "year": 2021.0,
+        "authors": [
+          "Spencer J Gibson",
+          "Nathalie Zahra",
+          "Peter J Freeman",
+          "Caroline Howard",
+          "Owen Lancaster",
+          "Colin Veal",
+          "Adrian Slater",
+          "Anthony J Brookes",
+          "Maria Casadell\u00e0 Fontdevila",
+          "Roger Paredes",
+          "Marc Noguera-Julian"
+        ],
+        "institutions": [
+          "University of Manchester",
+          "Wellcome Sanger Institute"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Single-Cell Omics"
+        ]
+      },
+      {
+        "pmid": "34066626",
+        "title": "Duvernoy's Gland Transcriptomics of the Plains Black-Headed Snake,",
+        "journal": "Toxins",
+        "year": 2021.0,
+        "authors": [
+          "Rhett M Rautsaw",
+          "Christopher L Parkinson",
+          "Erich P Hofmann",
+          "Andrew J Mason",
+          "Jason L Strickland"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Single-Cell Omics"
+        ]
+      },
+      {
+        "pmid": "21388570",
+        "title": "Biomedical semantics in the Semantic Web.",
+        "journal": "Journal of biomedical semantics",
+        "year": 2011.0,
+        "authors": [
+          "Andrea Splendiani",
+          "M Scott Marshall"
+        ],
+        "institutions": [],
+        "themes": [
+          "Toxicology",
+          "Single-Cell Omics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Single-Cell Omics"
+        ]
+      },
+      {
+        "pmid": "32923836",
+        "title": "Real-World Effectiveness of Obeticholic Acid in Patients with Primary Biliary Cholangitis.",
+        "journal": "Hepatology communications",
+        "year": 2020.0,
+        "authors": [
+          "Surain B Roberts",
+          "Marwa Ismail",
+          "Gowthami Kanagalingam",
+          "Andrew L Mason",
+          "Mark G Swain",
+          "Catherine Vincent",
+          "Eric M Yoshida",
+          "Cynthia Tsien",
+          "Jennifer A Flemming",
+          "Harry L A Janssen",
+          "Gideon M Hirschfield",
+          "Bettina E Hansen",
+          "Aliya F Gulamhusein"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Single-Cell Omics"
+        ]
+      },
+      {
+        "pmid": "40371623",
+        "title": "Synergistic Network Pharmacology: Preclinical Validation and Clinical Safety in Acute Ischemic Stroke.",
+        "journal": "Journal of the American Heart Association",
+        "year": 2025.0,
+        "authors": [
+          "Elisa Anastasi",
+          "James Skelton",
+          "Anil Wipat",
+          "Ana I Casas",
+          "Cristian Nogales",
+          "Rebecca D Szepanowski",
+          "Mahmoud H Elbatreek",
+          "Sepideh Sadegh",
+          "Benedikt Frank",
+          "Jan Baumbach",
+          "Christoph Kleinschnitz",
+          "Harald H H W Schmidt"
+        ],
+        "institutions": [
+          "Newcastle University"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Single-Cell Omics"
+        ]
+      },
+      {
+        "pmid": "35225872",
+        "title": "More Than Meets the Kappa for Antibody Superantigen Protein L (PpL).",
+        "journal": "Antibodies (Basel, Switzerland)",
+        "year": 2022.0,
+        "authors": [
+          "Wei-Li Ling",
+          "Yuen-Ling Ng",
+          "Joshua Yi Yeo",
+          "Samuel Ken-En Gan"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Single-Cell Omics"
+        ]
+      },
+      {
+        "pmid": "19591648",
+        "title": "Interfacing systems biology and synthetic biology.",
+        "journal": "Genome biology",
+        "year": 2009.0,
+        "authors": [
+          "Allyson Lister",
+          "Varodom Charoensawan",
+          "Julian Huppert"
+        ],
+        "institutions": [
+          "Newcastle University"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Single-Cell Omics"
+        ]
+      },
+      {
+        "pmid": "31840396",
+        "title": "Comparison of sulfide-oxidizing Sulfurimonas strains reveals a new mode of thiosulfate formation in subsurface environments.",
+        "journal": "Environmental microbiology",
+        "year": 2020.0,
+        "authors": [
+          "Anil Wipat",
+          "Sven Lahme",
+          "Lucy E Eland",
+          "Ian M Head",
+          "Casey R J Hubert",
+          "Cameron M Callbeck"
+        ],
+        "institutions": [
+          "Newcastle University"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Single-Cell Omics"
+        ]
+      },
+      {
+        "pmid": "18447634",
+        "title": "The first RSBI (ISA-TAB) workshop: \"can a simple format work for complex studies?\".",
+        "journal": "Omics : a journal of integrative biology",
+        "year": 2008.0,
+        "authors": [
+          "Susanna-Assunta Sansone",
+          "Andrew G Garrow",
+          "Federico Goodsaid",
+          "Nigel Hardy",
+          "Phil Jones",
+          "Michael Miller",
+          "Tim Rayner",
+          "Nataliya Sklyar",
+          "Weida Tong",
+          "Guy Warner"
+        ],
+        "institutions": [
+          "European Bioinformatics Institute"
+        ],
+        "themes": [
+          "Single-Cell Omics",
+          "Federated Human Data"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Single-Cell Omics"
+        ]
+      },
+      {
+        "pmid": "40398833",
+        "title": "Global Epidemiology of Primary Biliary Cholangitis: An Updated Systematic Review and Meta-analysis.",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "year": 2025.0,
+        "authors": [
+          "Jarell Jie-Rae Tan",
+          "Ambrose Hon Lam Chung",
+          "Jing Hong Loo",
+          "Joo Wei Ethan Quek",
+          "Sagar Sharma",
+          "Corrine Lee Singh",
+          "Roe Xin Jacqueline Yap",
+          "Wei Xuan Tay",
+          "Matthew K Smith",
+          "Ellina Lytvyak",
+          "Andrew Mason",
+          "Aldo J Montano-Loza",
+          "Yu Jun Wong"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Single-Cell Omics"
+        ]
+      }
+    ],
+    "seeds_experts": [
+      {
+        "name": "Maria Engel",
+        "paper_count": 2
+      },
+      {
+        "name": "Lars Kasper",
+        "paper_count": 2
+      },
+      {
+        "name": "Maryam Afzali",
+        "paper_count": 2
+      },
+      {
+        "name": "Wooli Bae",
+        "paper_count": 1
+      },
+      {
+        "name": "Guy-Bart V Stan",
+        "paper_count": 1
+      }
+    ],
+    "themes_experts": [
+      {
+        "name": "Chris Brown",
+        "paper_count": 5
+      },
+      {
+        "name": "Thomas Eade",
+        "paper_count": 2
+      },
+      {
+        "name": "Edward Hsiao",
+        "paper_count": 2
+      },
+      {
+        "name": "Andrew Kneebone",
+        "paper_count": 2
+      },
+      {
+        "name": "George Hruby",
+        "paper_count": 2
+      }
+    ],
+    "analysis": {
+      "seeds_paper_count": 10,
+      "themes_paper_count": 10,
+      "seeds_expert_count": 5,
+      "themes_expert_count": 5,
+      "seeds_quality": 0.6,
+      "themes_quality": 0.6,
+      "overlap_papers": 0,
+      "overlap_ratio": 0.0
+    }
+  },
+  {
+    "query": "metabolomics research",
+    "seeds_results": [
+      {
+        "pmid": "33511375",
+        "title": "Primary human colonic mucosal barrier crosstalk with super oxygen-sensitive",
+        "journal": "Med (New York, N.Y.)",
+        "year": 2021.0,
+        "authors": [
+          "Jun Young Yoon",
+          "Brij Bhushan",
+          "David L Trumper",
+          "Linda G Griffith",
+          "Rebecca L Carrier",
+          "Jianbo Zhang",
+          "Yu-Ja Huang",
+          "John Kemmitt",
+          "Charles Wright",
+          "Kirsten Schneider",
+          "Pierre Sphabmixay",
+          "Victor Hernandez-Gordillo",
+          "Steven J Holcomb",
+          "Gar Rohatgi",
+          "Kyle Benton",
+          "David Carpenter",
+          "Jemila C Kester",
+          "George Eng",
+          "David T Breault",
+          "Omer Yilmaz",
+          "Mao Taketani",
+          "Christopher A Voigt"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7447304725646973
+      },
+      {
+        "pmid": "30816855",
+        "title": "Microbial bile salt hydrolases mediate the efficacy of faecal microbiota transplant in the treatment of recurrent",
+        "journal": "Gut",
+        "year": 2019.0,
+        "authors": [
+          "Benjamin H Mullish",
+          "Julie A K McDonald",
+          "Alexandros Pechlivanis",
+          "Grace F Barker",
+          "Diya Kapila",
+          "Izabela Glegola-Madejska",
+          "Horace R T Williams",
+          "Elaine Holmes",
+          "Thomas B Clarke",
+          "Mark R Thursz",
+          "Julian R Marchesi",
+          "Jessica R Allegretti",
+          "Dina Kao",
+          "Elaine O Petrof",
+          "Cormac G M Gahan"
+        ],
+        "institutions": [
+          "Imperial College London"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7389123439788818
+      },
+      {
+        "pmid": "29485623",
+        "title": "High-quality science requires high-quality open data infrastructure.",
+        "journal": "Scientific data",
+        "year": 2018.0,
+        "authors": [
+          "Susanna-Assunta Sansone",
+          "Mark Thorley",
+          "Patricia Cruse"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Cancer Data"
+        ],
+        "score": 0.7380220293998718
+      },
+      {
+        "pmid": "37388964",
+        "title": "pBLAM1-x: standardized transposon tools for high-throughput screening.",
+        "journal": "Synthetic biology (Oxford, England)",
+        "year": 2023.0,
+        "authors": [
+          "Lorea Alejaldre",
+          "Ana-Mariya Anhel"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7368215322494507
+      },
+      {
+        "pmid": "35372651",
+        "title": "Advances in spiral fMRI: A high-resolution dataset.",
+        "journal": "Data in brief",
+        "year": 2022.0,
+        "authors": [
+          "Nadine N Graedel",
+          "Klaas Enno Stephan",
+          "Lars Kasper",
+          "Jakob Heinzle",
+          "Matthias Mueller-Schrader"
+        ],
+        "institutions": [
+          "University of Oxford",
+          "University College London"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7346954941749573
+      },
+      {
+        "pmid": "30627872",
+        "title": "Host and microbiome multi-omics integration: applications and methodologies.",
+        "journal": "Biophysical reviews",
+        "year": 2019.0,
+        "authors": [
+          "Eleni Giannoulatou",
+          "Joshua W K Ho",
+          "Qing Wang",
+          "Kaicen Wang",
+          "Wenrui Wu",
+          "Lanjuan Li"
+        ],
+        "institutions": [],
+        "themes": [
+          "Metabolomics"
+        ],
+        "score": 0.7332201600074768
+      },
+      {
+        "pmid": "36744229",
+        "title": "",
+        "journal": "Frontiers in veterinary science",
+        "year": 2022.0,
+        "authors": [
+          "Peymaneh Davoodi",
+          "Mostafa Ghaderi-Zefrehei",
+          "Mustafa Muhaghegh Dolatabady",
+          "Mohammad Razmkabir",
+          "Somayeh Kianpour",
+          "Effat Nasre Esfahani"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7329791188240051
+      },
+      {
+        "pmid": "34836611",
+        "title": "Oxygen levels are key to understanding \"Anaerobic\" protozoan pathogens with micro-aerophilic lifestyles.",
+        "journal": "Advances in microbial physiology",
+        "year": 2021.0,
+        "authors": [
+          "David Lloyd",
+          "Alan Chapman",
+          "Jayne E Ellis",
+          "Kevin Hillman",
+          "Timothy A Paget",
+          "Alan G Williams",
+          "Nigel Yarlett"
+        ],
+        "institutions": [
+          "Cardiff University"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7315011024475098
+      },
+      {
+        "pmid": "34712918",
+        "title": "Modeling",
+        "journal": "iScience",
+        "year": 2021.0,
+        "authors": [
+          "J\u00fcrgen W Sch\u00f6nborn",
+          "Fiona A Stewart",
+          "Kerstin Maas Enriquez",
+          "Irfan Akhtar",
+          "Andrea Droste",
+          "Silvio Waschina",
+          "Mathias Beller"
+        ],
+        "institutions": [],
+        "themes": [
+          "Metabolomics"
+        ],
+        "score": 0.7301638126373291
+      },
+      {
+        "pmid": "31831744",
+        "title": "Experiment design driven FAIRification of omics data matrices, an exemplar.",
+        "journal": "Scientific data",
+        "year": 2019.0,
+        "authors": [
+          "Philippe Rocca-Serra",
+          "Susanna-Assunta Sansone"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Cancer Data"
+        ],
+        "score": 0.7300329208374023
+      }
+    ],
+    "themes_results": [
+      {
+        "pmid": "34882032",
+        "title": "The Most Important Telemedicine Patient Satisfaction Dimension: Patient-Centered Care.",
+        "journal": "Telemedicine journal and e-health : the official journal of the American Telemedicine Association",
+        "year": 2022.0,
+        "authors": [
+          "Andrew N Mason"
+        ],
+        "institutions": [],
+        "themes": [
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Metabolomics",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "34820659",
+        "title": "The Data Use Ontology to streamline responsible access to human biomedical datasets.",
+        "journal": "Cell genomics",
+        "year": 2021.0,
+        "authors": [
+          "Anthony J Brookes",
+          "Jonathan Lawson",
+          "Moran N Cabili",
+          "Giselle Kerry",
+          "Sarion R Bowers",
+          "Tony Burdett",
+          "Hayley Clissold",
+          "Stacey Donnelly",
+          "Mallory A Freeberg",
+          "Melissa Konopko",
+          "Jamal Nasir",
+          "Helen Parkinson",
+          "Anthony A Philippakis",
+          "Kathy Reinold",
+          "Gregory A Rushton",
+          "Andrea Saltzman",
+          "Gary Saunders",
+          "John D Spalding",
+          "Susheel Varma",
+          "M\u00e9lanie Courtot",
+          "Melissa A Haendel",
+          "Tiffany Boughtwood",
+          "Adrian Thorogood",
+          "Pinar Alper",
+          "Rebecca R Boyles",
+          "Matthew Brush",
+          "Stephanie O M Dyke",
+          "Chihiro Hata",
+          "Petr Holub",
+          "Francis Jeanson",
+          "Aina Jene",
+          "Minae Kawashima",
+          "Shuichi Kawashima",
+          "Irene Kyomugisha",
+          "Haoyuan Li",
+          "Mikael Linden",
+          "Laura Lyman Rodriguez",
+          "Mizuki Morita",
+          "Jean Muller",
+          "Satoshi Nagaie",
+          "Soichi Ogishima",
+          "Vivian Ota Wang",
+          "Laura D Paglione",
+          "Ravi N Pandya",
+          "Fabian Prasser",
+          "Jordi Rambla",
+          "Heidi J Sofia",
+          "Morris A Swertz",
+          "Ilia Tulchinsky",
+          "Esther J van Enckevort",
+          "Craig Voisin",
+          "Natsuko Yamamoto",
+          "Chisato Yamasaki",
+          "Jaime M Guidry Auvil",
+          "Tommi H Nyr\u00f6nen"
+        ],
+        "institutions": [
+          "European Bioinformatics Institute",
+          "Wellcome Sanger Institute"
+        ],
+        "themes": [
+          "Galaxy",
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Metabolomics",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "39994238",
+        "title": "Applying the FAIR Principles to computational workflows.",
+        "journal": "Scientific data",
+        "year": 2025.0,
+        "authors": [
+          "Meznah Aloqalaa",
+          "Nick Juty",
+          "Stian Soiland-Reyes",
+          "Nicola Soranzo",
+          "Shoaib Sufi",
+          "Merridee A Wouters",
+          "Carole Goble",
+          "Ove Johan Ragnar Gustafsson",
+          "Sean R Wilkinson",
+          "Khalid Belhajjame",
+          "Michael R Crusoe",
+          "Bruno de Paula Kinoshita",
+          "Luiz Gadelha",
+          "Daniel Garijo",
+          "Sehrish Kanwal",
+          "Farah Zaib Khan",
+          "Johannes K\u00f6ster",
+          "Karsten Peters-von Gehlen",
+          "Line Pouchard",
+          "Randy K Rannow",
+          "Ziheng Sun",
+          "Baiba Vilne",
+          "Denis Yuen"
+        ],
+        "institutions": [
+          "University of Manchester"
+        ],
+        "themes": [
+          "Galaxy",
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Metabolomics",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "30062047",
+        "title": "Responsible sharing of biomedical data and biospecimens via the \"Automatable Discovery and Access Matrix\" (ADA-M).",
+        "journal": "NPJ genomic medicine",
+        "year": 2018.0,
+        "authors": [
+          "J Patrick Woolley",
+          "Moran N Cabili",
+          "Gregory Rushton",
+          "Vagelis Ladas",
+          "Colin D Veal",
+          "Spencer J Gibson",
+          "Anthony J Brookes",
+          "Emily Kirby",
+          "Josh Leslie",
+          "Francis Jeanson",
+          "James G Hazard",
+          "Anne-Marie Tass\u00e9",
+          "Stephanie O M Dyke",
+          "Clara Gaff",
+          "Adrian Thorogood",
+          "Bartha Maria Knoppers",
+          "John Wilbanks"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Research Data Management",
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Metabolomics",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "38855229",
+        "title": "Evaluating FAIR Digital Object and Linked Data as distributed object systems.",
+        "journal": "PeerJ. Computer science",
+        "year": 2024.0,
+        "authors": [
+          "Stian Soiland-Reyes",
+          "Carole Goble",
+          "Paul Groth"
+        ],
+        "institutions": [
+          "University of Manchester"
+        ],
+        "themes": [
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Metabolomics",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "38249839",
+        "title": "Toward a common standard for data and specimen provenance in life sciences.",
+        "journal": "Learning health systems",
+        "year": 2024.0,
+        "authors": [
+          "Tony Burdett",
+          "Adriane Chapman",
+          "Martin Chapman",
+          "Vasa Curcin",
+          "Mark Elliot",
+          "Carole Goble",
+          "Josh Moore",
+          "Stian Soiland-Reyes",
+          "Jason R Swedlow",
+          "Rudolf Wittner",
+          "Petr Holub",
+          "Cecilia Mascia",
+          "Francesca Frexia",
+          "Heimo M\u00fcller",
+          "Markus Plass",
+          "Clare Allocca",
+          "Fay Betsou",
+          "Ibon Cancio",
+          "M\u00e9lanie Courtot",
+          "Johann Eder",
+          "Katrina Exter",
+          "Martin Golebiewski",
+          "Bron Kisler",
+          "Andreas Kremer",
+          "Simone Leo",
+          "Sheng Lin-Gibson",
+          "Anna Marsano",
+          "Marco Mattavelli",
+          "Hiroki Nakae",
+          "Isabelle Perseil",
+          "Ayat Salman",
+          "James Sluka",
+          "Caterina Strambio-De-Castillia",
+          "Michael Sussman",
+          "Kurt Zatloukal",
+          "J\u00f6rg Geiger"
+        ],
+        "institutions": [
+          "University of Cambridge",
+          "King's College London",
+          "University of Manchester"
+        ],
+        "themes": [
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Metabolomics",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "18629134",
+        "title": "The SOFG Anatomy Entry List (SAEL): an annotation tool for functional genomics data.",
+        "journal": "Comparative and functional genomics",
+        "year": 2004.0,
+        "authors": [
+          "Helen Parkinson",
+          "Stuart Aitken",
+          "Terry F Hayamizu",
+          "Jeremy Rogers",
+          "Cornelius Rosse"
+        ],
+        "institutions": [
+          "University of Cambridge"
+        ],
+        "themes": [
+          "3D-BioInfo",
+          "Metabolomics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Metabolomics",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "26978244",
+        "title": "The FAIR Guiding Principles for scientific data management and stewardship.",
+        "journal": "Scientific data",
+        "year": 2016.0,
+        "authors": [
+          "Niklas Blomberg",
+          "Anthony J Brookes",
+          "Merc\u00e8 Crosas",
+          "Alejandra Gonzalez-Beltran",
+          "Alasdair J G Gray",
+          "Carole Goble",
+          "Philippe Rocca-Serra",
+          "Susanna-Assunta Sansone",
+          "Jan Velterop",
+          "Jun Zhao",
+          "Mark D Wilkinson",
+          "Michel Dumontier",
+          "I Jsbrand Jan Aalbersberg",
+          "Gabrielle Appleton",
+          "Myles Axton",
+          "Arie Baak",
+          "Jan-Willem Boiten",
+          "Luiz Bonino da Silva Santos",
+          "Philip E Bourne",
+          "Jildau Bouwman",
+          "Tim Clark",
+          "Ingrid Dillo",
+          "Olivier Dumon",
+          "Scott Edmunds",
+          "Chris T Evelo",
+          "Richard Finkers",
+          "Paul Groth",
+          "Jeffrey S Grethe",
+          "Jaap Heringa",
+          "Peter A C 't Hoen",
+          "Rob Hooft",
+          "Tobias Kuhn",
+          "Ruben Kok",
+          "Joost Kok",
+          "Scott J Lusher",
+          "Maryann E Martone",
+          "Albert Mons",
+          "Abel L Packer",
+          "Bengt Persson",
+          "Marco Roos",
+          "Rene van Schaik",
+          "Erik Schultes",
+          "Thierry Sengstag",
+          "Ted Slater",
+          "George Strawn",
+          "Morris A Swertz",
+          "Mark Thompson",
+          "Johan van der Lei",
+          "Erik van Mulligen",
+          "Andra Waagmeester",
+          "Peter Wittenburg",
+          "Katherine Wolstencroft",
+          "Barend Mons"
+        ],
+        "institutions": [
+          "University of Oxford",
+          "University of Edinburgh",
+          "University of Manchester"
+        ],
+        "themes": [
+          "Research Data Management",
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Metabolomics",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "35504910",
+        "title": "DNA methylation signature of chronic low-grade inflammation and its role in cardio-respiratory diseases.",
+        "journal": "Nature communications",
+        "year": 2022.0,
+        "authors": [
+          "Matthias Wielscher",
+          "Rima Mustafa",
+          "Oliver Robinson",
+          "Esther Walton",
+          "Pei-Chien Tsai",
+          "Saranya Palaniswamy",
+          "Riccardo E Marioni",
+          "Giovanni Fiorito",
+          "Ville Karhunen",
+          "Marie Loh",
+          "Benjamin Lehne",
+          "Marc Chadeau-Hyam",
+          "Alexia Cardona",
+          "Yujing Xia",
+          "Paolo Vineis",
+          "Evangelia Tzala",
+          "Jaspal S Kooner",
+          "Panos Deloukas",
+          "Caroline Relton",
+          "Ken K Ong",
+          "Paul Elliott",
+          "John C Chambers",
+          "Abbas Dehghan",
+          "Marjo-Riitta J\u00e4rvelin",
+          "Pooja R Mandaviya",
+          "Brigitte Kuehnel",
+          "Pascal Schlosser",
+          "Rory Wilson",
+          "Giovanni Cugliari",
+          "Mohsen Ghanbari",
+          "Bruce M Psaty",
+          "Joshua C Bis",
+          "Jennifer A Brody",
+          "Elizabeth Selvin",
+          "Alicia K Smith",
+          "Andrew H Miller",
+          "Mylin A Torres",
+          "Xin G\u00e0o",
+          "Johanna Graf-Schindler",
+          "Wolfgang Rathmann",
+          "Wolfgang Koenig",
+          "Annette Peters",
+          "Matthias Farlik",
+          "Tao Zhang",
+          "Wei Chen",
+          "Macus Doerr",
+          "Toshiko Tanaka",
+          "Krista Fisher",
+          "Niek Verweij",
+          "Pim van der Harst",
+          "Licia Iacoviello",
+          "Carlotta Sacerdote",
+          "Rosario Tumino",
+          "Giuseppe Matullo",
+          "Mikko A Hurme",
+          "Mika K\u00e4h\u00f6nen",
+          "Karl-Heinz Herzig",
+          "Shengxu Li",
+          "Anna K\u00f6ttgen",
+          "Eric Boerwinkle",
+          "Hermann Brenner",
+          "Marian Beekman",
+          "Melanie Waldenberger"
+        ],
+        "institutions": [
+          "Imperial College London",
+          "King's College London",
+          "University of Edinburgh",
+          "University of Cambridge"
+        ],
+        "themes": [
+          "Metabolomics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Metabolomics",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "34493871",
+        "title": "Genomic and phenotypic insights from an atlas of genetic effects on DNA methylation.",
+        "journal": "Nature genetics",
+        "year": 2021.0,
+        "authors": [
+          "Josine L Min",
+          "Eilis Hannon",
+          "Juan Castillo-Fernandez",
+          "Elena Carnero-Montoro",
+          "Daniel J Lawson",
+          "Kimberley Burrows",
+          "Matthew Suderman",
+          "Andrew D Bretherick",
+          "Tom G Richardson",
+          "Valentina Iotchkova",
+          "Gemma Sharp",
+          "Ahmad Al Khleifat",
+          "Aleksey Shatunov",
+          "Alfredo Iacoangeli",
+          "Wendy L McArdle",
+          "Nabila Kazmi",
+          "Dan Mason",
+          "Alexia Cardona",
+          "Felix R Day",
+          "Yanni Zeng",
+          "Toni-Kim Clarke",
+          "Rosie M Walker",
+          "Faisal I Rezwan",
+          "Riccardo E Marioni",
+          "Carol Wang",
+          "Hannah R Elliott",
+          "Idil Yet",
+          "Melissa Smart",
+          "Tyler Gorrie-Stone",
+          "Chris Shaw",
+          "Ammar Al Chalabi",
+          "Susan M Ring",
+          "Deborah A Lawlor",
+          "John Wright",
+          "Terrie E Moffitt",
+          "T\u00f5nu Esko",
+          "John R B Perry",
+          "Ken K Ong",
+          "Avshalom Caspi",
+          "Louise Arseneault",
+          "Marinus H van IJzendoorn",
+          "Chris Haley",
+          "Andrew M McIntosh",
+          "Kathryn L Evans",
+          "Alison Murray",
+          "Thorkild I A S\u00f8rensen",
+          "John W Holloway",
+          "Ian J Deary",
+          "John M Starr",
+          "Craig E Pennell",
+          "Alun D Hughes",
+          "Therese Tillin",
+          "Nish Chaturvedi",
+          "Timothy D Spector",
+          "Leonard C Schalkwyk",
+          "Tom R Gaunt",
+          "Jonathan Mill",
+          "Caroline L Relton",
+          "Koen F Dekkers",
+          "Ren\u00e9 Luijk",
+          "Johanna Klughammer",
+          "Ashish Kumar",
+          "Cilla S\u00f6derh\u00e4ll",
+          "Carolina Soriano-T\u00e1rraga",
+          "Eva Giralt-Steinhauer",
+          "Allan F McRae",
+          "David L Corcoran",
+          "Karen Sugden",
+          "Silva Kasela",
+          "Giovanni Cugliari",
+          "Clara Viberti",
+          "Simonetta Guarrera",
+          "Michael Lerro",
+          "Richa Gupta",
+          "Sailalitha Bollepalli",
+          "Pooja Mandaviya",
+          "Vanessa Schmoll",
+          "Darina Czamara",
+          "Carlos Ruiz-Arenas",
+          "Tian Lin",
+          "Yvonne Awaloff",
+          "Marine Germain",
+          "Dylan A\u00efssi",
+          "Ramona Zwamborn",
+          "Kristel van Eijk",
+          "Annelot Dekker",
+          "Jenny van Dongen",
+          "Jouke-Jan Hottenga",
+          "Gonneke Willemsen",
+          "Cheng-Jian Xu",
+          "Guillermo Barturen",
+          "Francesc Catal\u00e0-Moll",
+          "Martin Kerick",
+          "Phillip Melton",
+          "Jean Shin",
+          "Manon Bernard",
+          "G\u00f6ran Pershagen",
+          "Erik Mel\u00e9n",
+          "Jordi Jim\u00e9nez-Conde",
+          "Jaume Roquer",
+          "Nicholas G Martin",
+          "Grant W Montgomery",
+          "Richie Poulton",
+          "Lili Milani",
+          "Andres Metspalu",
+          "Giuseppe Matullo",
+          "Carlotta Sacerdote",
+          "Salvatore Panico",
+          "France Gagnon",
+          "Miina Ollikainen",
+          "Jaakko Kaprio",
+          "Janine F Felix",
+          "Fernando Rivadeneira",
+          "Henning Tiemeier",
+          "Andr\u00e9 G Uitterlinden",
+          "Vincent W V Jaddoe",
+          "Katri R\u00e4ikk\u00f6nen",
+          "Jari Lahti",
+          "Ellen A Nohr",
+          "Torben Hansen",
+          "Camilla S Morgen",
+          "Elisabeth B Binder",
+          "Susanne Lucae",
+          "Juan Ramon Gonzalez",
+          "Mariona Bustamante",
+          "Jordi Sunyer",
+          "Wilfried Karmaus",
+          "Hongmei Zhang",
+          "Naomi R Wray",
+          "Marian Beekman",
+          "Diana van Heemst",
+          "P Eline Slagboom",
+          "Pierre-Emmanuel Morange",
+          "David-Alexandre Tr\u00e9gou\u00ebt",
+          "Jan H Veldink",
+          "Gareth E Davies",
+          "Eco J C de Geus",
+          "Dorret I Boomsma",
+          "Judith M Vonk",
+          "Bert Brunekreef",
+          "Gerard H Koppelman",
+          "Marta E Alarc\u00f3n-Riquelme",
+          "Rae-Chi Huang",
+          "Joyce van Meurs",
+          "M Arfan Ikram",
+          "Zdenka Pausova",
+          "Tomas Paus",
+          "Peter M Visscher",
+          "Christoph Bock",
+          "Bastiaan T Heijmans"
+        ],
+        "institutions": [
+          "King's College London",
+          "University of Edinburgh",
+          "University of Cambridge",
+          "Newcastle University",
+          "University College London"
+        ],
+        "themes": [
+          "Metabolomics"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Metabolomics",
+          "Research Data Management"
+        ]
+      }
+    ],
+    "seeds_experts": [
+      {
+        "name": "Susanna-Assunta Sansone",
+        "paper_count": 3
+      },
+      {
+        "name": "Lars Kasper",
+        "paper_count": 2
+      },
+      {
+        "name": "Philippe Rocca-Serra",
+        "paper_count": 2
+      },
+      {
+        "name": "Yiming Huang",
+        "paper_count": 2
+      },
+      {
+        "name": "Mark R Viant",
+        "paper_count": 2
+      }
+    ],
+    "themes_experts": [
+      {
+        "name": "Carole Goble",
+        "paper_count": 12
+      },
+      {
+        "name": "Nick Juty",
+        "paper_count": 7
+      },
+      {
+        "name": "Stian Soiland-Reyes",
+        "paper_count": 6
+      },
+      {
+        "name": "Susanna-Assunta Sansone",
+        "paper_count": 5
+      },
+      {
+        "name": "Tony Burdett",
+        "paper_count": 4
+      }
+    ],
+    "analysis": {
+      "seeds_paper_count": 10,
+      "themes_paper_count": 10,
+      "seeds_expert_count": 5,
+      "themes_expert_count": 5,
+      "seeds_quality": 0.6,
+      "themes_quality": 0.6,
+      "overlap_papers": 0,
+      "overlap_ratio": 0.0
+    }
+  },
+  {
+    "query": "cancer data analysis",
+    "seeds_results": [
+      {
+        "pmid": "29485623",
+        "title": "High-quality science requires high-quality open data infrastructure.",
+        "journal": "Scientific data",
+        "year": 2018.0,
+        "authors": [
+          "Susanna-Assunta Sansone",
+          "Mark Thorley",
+          "Patricia Cruse"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Cancer Data"
+        ],
+        "score": 0.75128573179245
+      },
+      {
+        "pmid": "33523652",
+        "title": "",
+        "journal": "Bioconjugate chemistry",
+        "year": 2021.0,
+        "authors": [
+          "Julien C Vantourout",
+          "Josephine Yuen",
+          "Ghotas Evindar",
+          "Letian Kuai",
+          "Xiaopeng Bai",
+          "Eric Shi",
+          "Steven Skinner",
+          "Christopher Arico-Muendel",
+          "Andrew M Mason",
+          "Graham L Simpson",
+          "Michael Hobbs",
+          "Emma Edgar",
+          "Saul Needle",
+          "Steve Wilson",
+          "Paul Scott-Stevens",
+          "William Traylen",
+          "Kim Lambert",
+          "Neil Young",
+          "Shenaz Bunally",
+          "Scott G Summerfield",
+          "Richard Snell",
+          "Rakesh Lad",
+          "Lisa Shewchuk",
+          "Allan J B Watson",
+          "Chun-Wa Chung",
+          "Sandeep Pal",
+          "Dennis A Holt",
+          "Lara S Kallander",
+          "Joanne Prendergast",
+          "Katrina Rivera",
+          "David G Washburn",
+          "Mark R Harpel",
+          "Albert Isidro-Llobet"
+        ],
+        "institutions": [
+          "University of Glasgow"
+        ],
+        "themes": [
+          "Intrinsically Disordered Proteins (IDP)"
+        ],
+        "score": 0.7495517134666443
+      },
+      {
+        "pmid": "23631413",
+        "title": "A data-driven approach to preprocessing Illumina 450K methylation array data.",
+        "journal": "BMC genomics",
+        "year": 2013.0,
+        "authors": [
+          "Ruth Pidsley",
+          "Chloe C Y Wong"
+        ],
+        "institutions": [
+          "King's College London"
+        ],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7487407922744751
+      },
+      {
+        "pmid": "26796797",
+        "title": "Consent Codes: Upholding Standard Data Use Conditions.",
+        "journal": "PLoS genetics",
+        "year": 2016.0,
+        "authors": [
+          "Anthony J Brookes",
+          "Anthony A Philippakis",
+          "J Dylan Spalding",
+          "Matthew Hurles",
+          "Heidi L Rehm",
+          "Stephanie O M Dyke",
+          "Jordi Rambla De Argila",
+          "Dina N Paltoo",
+          "Erin S Luetkemeier",
+          "Bartha M Knoppers",
+          "Mark Thompson",
+          "Marco Roos",
+          "Kym M Boycott",
+          "Michael Brudno",
+          "Andreas Matern",
+          "Marc Fiume",
+          "Stephen T Sherry"
+        ],
+        "institutions": [
+          "European Bioinformatics Institute",
+          "Wellcome Sanger Institute"
+        ],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7462248802185059
+      },
+      {
+        "pmid": "32375896",
+        "title": "T",
+        "journal": "Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance",
+        "year": 2020.0,
+        "authors": [
+          "Gabriella Captur",
+          "Abhiyan Bhandari",
+          "Richard J Eames",
+          "Giulia Benedetti",
+          "Lewis Ricketts",
+          "Redha Boubertakh",
+          "Nasri Fatih",
+          "John P Greenwood",
+          "Chris B Lawton",
+          "Chiara Bucciarelli-Ducci",
+          "Richard Steeds",
+          "Steve W Leung",
+          "Colin Berry",
+          "Andrew Flett",
+          "David M Higgins",
+          "Dana Dawson",
+          "Sven Plein",
+          "Nish Chaturvedi",
+          "Peter Gatehouse",
+          "James C Moon",
+          "Andrea Barison",
+          "R\u00fcdiger Br\u00fchl",
+          "Bernd Ittermann",
+          "Kathryn E Keenan",
+          "Ye Yang",
+          "Camilla Torlasco",
+          "Leonie E M Paulis",
+          "Hildo J Lamb",
+          "Sinitsyn Valentin",
+          "Charlotte de Lange",
+          "Francesco DeCobelli",
+          "Magalie Viallon",
+          "Pierre Croisille",
+          "Andreas Greiser",
+          "Wenjie Pang",
+          "Christian Hamilton-Craig",
+          "Wendy E Strugnell",
+          "Tom Dresselaers",
+          "Andrew J Taylor",
+          "Fran\u00e7ois-Pierre Mongeon",
+          "Daniel Messroghli",
+          "Mouaz Al-Mallah",
+          "Stuart M Grieve",
+          "Massimo Lombardi",
+          "Jihye Jang",
+          "Michael Salerno",
+          "Peter Kellman",
+          "David A Bluemke",
+          "Reza Nezafat"
+        ],
+        "institutions": [
+          "University College London",
+          "Imperial College London",
+          "University of Leeds"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7443044781684875
+      },
+      {
+        "pmid": "36744229",
+        "title": "",
+        "journal": "Frontiers in veterinary science",
+        "year": 2022.0,
+        "authors": [
+          "Peymaneh Davoodi",
+          "Mostafa Ghaderi-Zefrehei",
+          "Mustafa Muhaghegh Dolatabady",
+          "Mohammad Razmkabir",
+          "Somayeh Kianpour",
+          "Effat Nasre Esfahani"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7415419220924377
+      },
+      {
+        "pmid": "36541006",
+        "title": "Accessing clinical-grade genomic classification data through the ClinGen Data Platform.",
+        "journal": "Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing",
+        "year": 2023.0,
+        "authors": [
+          "Karen P Dalton",
+          "Matt W Wright",
+          "Mark E Mandell",
+          "Kilannin Krysiak"
+        ],
+        "institutions": [],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7400354743003845
+      },
+      {
+        "pmid": "33275434",
+        "title": "",
+        "journal": "Nano letters",
+        "year": 2021.0,
+        "authors": [
+          "Wooli Bae",
+          "Guy-Bart V Stan",
+          "Thomas E Ouldridge"
+        ],
+        "institutions": [
+          "Imperial College London"
+        ],
+        "themes": [
+          "Microbial Biotechnology"
+        ],
+        "score": 0.7372592687606812
+      },
+      {
+        "pmid": "31831744",
+        "title": "Experiment design driven FAIRification of omics data matrices, an exemplar.",
+        "journal": "Scientific data",
+        "year": 2019.0,
+        "authors": [
+          "Philippe Rocca-Serra",
+          "Susanna-Assunta Sansone"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Cancer Data"
+        ],
+        "score": 0.7362611293792725
+      },
+      {
+        "pmid": "33106390",
+        "title": "",
+        "journal": "Neurology",
+        "year": 2021.0,
+        "authors": [
+          "Isabel C Hostettler",
+          "Benjamin O'Callaghan",
+          "Enrico Bugiardini",
+          "Emer O'Connor",
+          "Jana Vandrovcova",
+          "Indran Davagnanam",
+          "Varinder Alg",
+          "Stephen Bonner",
+          "Daniel Walsh",
+          "Diederik Bulters",
+          "Neil Kitchen",
+          "Martin M Brown",
+          "Joan Grieve",
+          "David J Werring",
+          "Henry Houlden"
+        ],
+        "institutions": [
+          "University College London"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7341393232345581
+      }
+    ],
+    "themes_results": [
+      {
+        "pmid": "39915473",
+        "title": "WAND: A multi-modal dataset integrating advanced MRI, MEG, and TMS for multi-scale brain analysis.",
+        "journal": "Scientific data",
+        "year": 2025.0,
+        "authors": [
+          "Carolyn B McNabb",
+          "Ian D Driver",
+          "Vanessa Hyde",
+          "Garin Hughes",
+          "Hannah L Chandler",
+          "Hannah Thomas",
+          "Christopher Allen",
+          "Eirini Messaritaki",
+          "Carl J Hodgetts",
+          "Craig Hedge",
+          "Maria Engel",
+          "Sophie F Standen",
+          "Emma L Morgan",
+          "Elena Stylianopoulou",
+          "Svetla Manolova",
+          "Lucie Reed",
+          "Matthew Ploszajski",
+          "Mark Drakesmith",
+          "Alexander D Shaw",
+          "Holly Rossiter",
+          "Tom Lancaster",
+          "C John Evans",
+          "David Owen",
+          "Gavin Perry",
+          "Slawomir Kusmia",
+          "Emily Lambe",
+          "Adam M Partridge",
+          "Allison Cooper",
+          "Peter Hobden",
+          "Kim S Graham",
+          "Andrew D Lawrence",
+          "Richard G Wise",
+          "James T R Walters",
+          "Petroc Sumner",
+          "Krish D Singh",
+          "Derek K Jones",
+          "Michael Germuska",
+          "Christopher W Davies-Jenkins",
+          "Hanzhang Lu"
+        ],
+        "institutions": [
+          "Cardiff University",
+          "University of Edinburgh"
+        ],
+        "themes": [
+          "Cancer Data"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Cancer Data",
+          "Federated Human Data",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "33270111",
+        "title": "GENCODE 2021.",
+        "journal": "Nucleic acids research",
+        "year": 2021.0,
+        "authors": [
+          "Irwin Jungreis",
+          "James C Wright",
+          "Carles Boix",
+          "Ferriol Calvet Riera",
+          "Jyoti S Choudhary",
+          "Manolis Kellis",
+          "Benedict Paten",
+          "Mark Diekhans",
+          "Julien Lagarde",
+          "Joel Armstrong",
+          "Silvia Carbonell Sala",
+          "Ian T Fiddes",
+          "Paul Muir",
+          "Maxim Y Wolf",
+          "Yucheng T Yang",
+          "Yan Zhang",
+          "Roderic Guig\u00f3"
+        ],
+        "institutions": [
+          "University of Cambridge"
+        ],
+        "themes": [
+          "Rare Diseases",
+          "Federated Human Data"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Cancer Data",
+          "Federated Human Data",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "34882032",
+        "title": "The Most Important Telemedicine Patient Satisfaction Dimension: Patient-Centered Care.",
+        "journal": "Telemedicine journal and e-health : the official journal of the American Telemedicine Association",
+        "year": 2022.0,
+        "authors": [
+          "Andrew N Mason"
+        ],
+        "institutions": [],
+        "themes": [
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Cancer Data",
+          "Federated Human Data",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "34820659",
+        "title": "The Data Use Ontology to streamline responsible access to human biomedical datasets.",
+        "journal": "Cell genomics",
+        "year": 2021.0,
+        "authors": [
+          "Anthony J Brookes",
+          "Jonathan Lawson",
+          "Moran N Cabili",
+          "Giselle Kerry",
+          "Sarion R Bowers",
+          "Tony Burdett",
+          "Hayley Clissold",
+          "Stacey Donnelly",
+          "Mallory A Freeberg",
+          "Melissa Konopko",
+          "Jamal Nasir",
+          "Helen Parkinson",
+          "Anthony A Philippakis",
+          "Kathy Reinold",
+          "Gregory A Rushton",
+          "Andrea Saltzman",
+          "Gary Saunders",
+          "John D Spalding",
+          "Susheel Varma",
+          "M\u00e9lanie Courtot",
+          "Melissa A Haendel",
+          "Tiffany Boughtwood",
+          "Adrian Thorogood",
+          "Pinar Alper",
+          "Rebecca R Boyles",
+          "Matthew Brush",
+          "Stephanie O M Dyke",
+          "Chihiro Hata",
+          "Petr Holub",
+          "Francis Jeanson",
+          "Aina Jene",
+          "Minae Kawashima",
+          "Shuichi Kawashima",
+          "Irene Kyomugisha",
+          "Haoyuan Li",
+          "Mikael Linden",
+          "Laura Lyman Rodriguez",
+          "Mizuki Morita",
+          "Jean Muller",
+          "Satoshi Nagaie",
+          "Soichi Ogishima",
+          "Vivian Ota Wang",
+          "Laura D Paglione",
+          "Ravi N Pandya",
+          "Fabian Prasser",
+          "Jordi Rambla",
+          "Heidi J Sofia",
+          "Morris A Swertz",
+          "Ilia Tulchinsky",
+          "Esther J van Enckevort",
+          "Craig Voisin",
+          "Natsuko Yamamoto",
+          "Chisato Yamasaki",
+          "Jaime M Guidry Auvil",
+          "Tommi H Nyr\u00f6nen"
+        ],
+        "institutions": [
+          "European Bioinformatics Institute",
+          "Wellcome Sanger Institute"
+        ],
+        "themes": [
+          "Galaxy",
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Cancer Data",
+          "Federated Human Data",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "34590947",
+        "title": "Predictors of Inpatient Morbidity and Mortality After 1- and 2-Level Anterior Cervical Diskectomy and Fusion Based on the National Inpatient Sample Database From 2006 Through 2010.",
+        "journal": "Orthopedics",
+        "year": 2021.0,
+        "authors": [
+          "Ashley Rogerson",
+          "Jessica Aidlen",
+          "Ayal Pierce",
+          "David Tybor",
+          "Matthew J Salzler"
+        ],
+        "institutions": [],
+        "themes": [
+          "Federated Human Data"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Cancer Data",
+          "Federated Human Data",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "33468531",
+        "title": "Protocol for the development of the Wales Multimorbidity e-Cohort (WMC): data sources and methods to construct a population-based research platform to investigate multimorbidity.",
+        "journal": "BMJ open",
+        "year": 2021.0,
+        "authors": [
+          "Jane Lyons",
+          "Utkarsh Agrawal",
+          "Gill Harper",
+          "Amaya Azcoaga-Lorenzo",
+          "Rowena Bailey",
+          "James Rafferty",
+          "Alan Watkins",
+          "Richard Fry",
+          "Colin McCowan",
+          "Carol Dezateux",
+          "John P Robson",
+          "Niels Peek",
+          "Chris Holmes",
+          "Spiros Denaxas",
+          "Rhiannon Owen",
+          "Keith R Abrams",
+          "Ann John",
+          "Dermot O'Reilly",
+          "Sylvia Richardson",
+          "Marlous Hall",
+          "Chris P Gale",
+          "Jan Davies",
+          "Chris Davies",
+          "Lynsey Cross",
+          "John Gallacher",
+          "James Chess",
+          "Ronan A Lyons"
+        ],
+        "institutions": [
+          "University of Manchester",
+          "University of Oxford",
+          "University College London",
+          "University of Leeds"
+        ],
+        "themes": [
+          "Rare Diseases",
+          "Federated Human Data"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Cancer Data",
+          "Federated Human Data",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "39994238",
+        "title": "Applying the FAIR Principles to computational workflows.",
+        "journal": "Scientific data",
+        "year": 2025.0,
+        "authors": [
+          "Meznah Aloqalaa",
+          "Nick Juty",
+          "Stian Soiland-Reyes",
+          "Nicola Soranzo",
+          "Shoaib Sufi",
+          "Merridee A Wouters",
+          "Carole Goble",
+          "Ove Johan Ragnar Gustafsson",
+          "Sean R Wilkinson",
+          "Khalid Belhajjame",
+          "Michael R Crusoe",
+          "Bruno de Paula Kinoshita",
+          "Luiz Gadelha",
+          "Daniel Garijo",
+          "Sehrish Kanwal",
+          "Farah Zaib Khan",
+          "Johannes K\u00f6ster",
+          "Karsten Peters-von Gehlen",
+          "Line Pouchard",
+          "Randy K Rannow",
+          "Ziheng Sun",
+          "Baiba Vilne",
+          "Denis Yuen"
+        ],
+        "institutions": [
+          "University of Manchester"
+        ],
+        "themes": [
+          "Galaxy",
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Cancer Data",
+          "Federated Human Data",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "30062047",
+        "title": "Responsible sharing of biomedical data and biospecimens via the \"Automatable Discovery and Access Matrix\" (ADA-M).",
+        "journal": "NPJ genomic medicine",
+        "year": 2018.0,
+        "authors": [
+          "J Patrick Woolley",
+          "Moran N Cabili",
+          "Gregory Rushton",
+          "Vagelis Ladas",
+          "Colin D Veal",
+          "Spencer J Gibson",
+          "Anthony J Brookes",
+          "Emily Kirby",
+          "Josh Leslie",
+          "Francis Jeanson",
+          "James G Hazard",
+          "Anne-Marie Tass\u00e9",
+          "Stephanie O M Dyke",
+          "Clara Gaff",
+          "Adrian Thorogood",
+          "Bartha Maria Knoppers",
+          "John Wilbanks"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Research Data Management",
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Cancer Data",
+          "Federated Human Data",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "38855229",
+        "title": "Evaluating FAIR Digital Object and Linked Data as distributed object systems.",
+        "journal": "PeerJ. Computer science",
+        "year": 2024.0,
+        "authors": [
+          "Stian Soiland-Reyes",
+          "Carole Goble",
+          "Paul Groth"
+        ],
+        "institutions": [
+          "University of Manchester"
+        ],
+        "themes": [
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Cancer Data",
+          "Federated Human Data",
+          "Research Data Management"
+        ]
+      },
+      {
+        "pmid": "38249839",
+        "title": "Toward a common standard for data and specimen provenance in life sciences.",
+        "journal": "Learning health systems",
+        "year": 2024.0,
+        "authors": [
+          "Tony Burdett",
+          "Adriane Chapman",
+          "Martin Chapman",
+          "Vasa Curcin",
+          "Mark Elliot",
+          "Carole Goble",
+          "Josh Moore",
+          "Stian Soiland-Reyes",
+          "Jason R Swedlow",
+          "Rudolf Wittner",
+          "Petr Holub",
+          "Cecilia Mascia",
+          "Francesca Frexia",
+          "Heimo M\u00fcller",
+          "Markus Plass",
+          "Clare Allocca",
+          "Fay Betsou",
+          "Ibon Cancio",
+          "M\u00e9lanie Courtot",
+          "Johann Eder",
+          "Katrina Exter",
+          "Martin Golebiewski",
+          "Bron Kisler",
+          "Andreas Kremer",
+          "Simone Leo",
+          "Sheng Lin-Gibson",
+          "Anna Marsano",
+          "Marco Mattavelli",
+          "Hiroki Nakae",
+          "Isabelle Perseil",
+          "Ayat Salman",
+          "James Sluka",
+          "Caterina Strambio-De-Castillia",
+          "Michael Sussman",
+          "Kurt Zatloukal",
+          "J\u00f6rg Geiger"
+        ],
+        "institutions": [
+          "University of Cambridge",
+          "King's College London",
+          "University of Manchester"
+        ],
+        "themes": [
+          "Research Data Management"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Cancer Data",
+          "Federated Human Data",
+          "Research Data Management"
+        ]
+      }
+    ],
+    "seeds_experts": [
+      {
+        "name": "Susanna-Assunta Sansone",
+        "paper_count": 2
+      },
+      {
+        "name": "Heidi L Rehm",
+        "paper_count": 2
+      },
+      {
+        "name": "Bartha M Knoppers",
+        "paper_count": 2
+      },
+      {
+        "name": "Michael Brudno",
+        "paper_count": 2
+      },
+      {
+        "name": "Henning Hermjakob",
+        "paper_count": 2
+      }
+    ],
+    "themes_experts": [
+      {
+        "name": "Carole Goble",
+        "paper_count": 13
+      },
+      {
+        "name": "Nick Juty",
+        "paper_count": 8
+      },
+      {
+        "name": "Stian Soiland-Reyes",
+        "paper_count": 6
+      },
+      {
+        "name": "Susanna-Assunta Sansone",
+        "paper_count": 5
+      },
+      {
+        "name": "Melissa A Haendel",
+        "paper_count": 4
+      }
+    ],
+    "analysis": {
+      "seeds_paper_count": 10,
+      "themes_paper_count": 10,
+      "seeds_expert_count": 5,
+      "themes_expert_count": 5,
+      "seeds_quality": 0.8400000000000001,
+      "themes_quality": 0.8400000000000001,
+      "overlap_papers": 0,
+      "overlap_ratio": 0.0
+    }
+  },
+  {
+    "query": "systems biology",
+    "seeds_results": [
+      {
+        "pmid": "33275434",
+        "title": "",
+        "journal": "Nano letters",
+        "year": 2021.0,
+        "authors": [
+          "Wooli Bae",
+          "Guy-Bart V Stan",
+          "Thomas E Ouldridge"
+        ],
+        "institutions": [
+          "Imperial College London"
+        ],
+        "themes": [
+          "Microbial Biotechnology"
+        ],
+        "score": 0.8074043393135071
+      },
+      {
+        "pmid": "37555138",
+        "title": "Cumulant expansion with localization: A new representation of the diffusion MRI signal.",
+        "journal": "Frontiers in neuroimaging",
+        "year": 2022.0,
+        "authors": [
+          "Maryam Afzali",
+          "J\u00fcrgen E Schneider",
+          "Tomasz Pieciak",
+          "Evren \u00d6zarslan"
+        ],
+        "institutions": [
+          "Cardiff University",
+          "University of Leeds"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.799891471862793
+      },
+      {
+        "pmid": "26700851",
+        "title": "The evolution of standards and data management practices in systems biology.",
+        "journal": "Molecular systems biology",
+        "year": 2015.0,
+        "authors": [
+          "Stuart Owen",
+          "Carole Goble",
+          "Natalie J Stanford",
+          "Nick Juty",
+          "Christopher Tomlinson",
+          "Sarah Butcher",
+          "Henning Hermjakob",
+          "Jacky Snoep",
+          "Katherine Wolstencroft",
+          "Martin Golebiewski",
+          "Renate Kania",
+          "Wolfgang Mueller"
+        ],
+        "institutions": [
+          "University of Manchester",
+          "European Bioinformatics Institute",
+          "Imperial College London"
+        ],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7951838374137878
+      },
+      {
+        "pmid": "31429541",
+        "title": "A Model for the Spatiotemporal Design of Gene Regulatory Circuits \u2020.",
+        "journal": "ACS synthetic biology",
+        "year": 2019.0,
+        "authors": [
+          "Ruud Stoof",
+          "Alexander Wood",
+          "\u00c1ngel Go\u00f1i-Moreno"
+        ],
+        "institutions": [
+          "Newcastle University"
+        ],
+        "themes": [
+          "Microbial Biotechnology"
+        ],
+        "score": 0.794375479221344
+      },
+      {
+        "pmid": "28774650",
+        "title": "Rapid anatomical brain imaging using spiral acquisition and an expanded signal model.",
+        "journal": "NeuroImage",
+        "year": 2018.0,
+        "authors": [
+          "Klaas E Stephan",
+          "Maria Engel",
+          "Bertram J Wilm",
+          "Klaas P Pruessmann",
+          "Thomas Schmid",
+          "Lars Kasper",
+          "Christoph Barmet",
+          "Maximilian Haeberlin",
+          "Benjamin E Dietrich",
+          "Simon Gross",
+          "David O Brunner"
+        ],
+        "institutions": [
+          "University College London"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7928141355514526
+      },
+      {
+        "pmid": "28784786",
+        "title": "Inferring patterns of folktale diffusion using genomic data.",
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "year": 2017.0,
+        "authors": [
+          "Enrico R Crema",
+          "Gessica Martini",
+          "Jamshid J Tehrani",
+          "Eugenio Bortolini",
+          "Luca Pagani",
+          "Stefania Sarno",
+          "Chiara Barbieri",
+          "Alessio Boattini",
+          "Marco Sazzini",
+          "Sara Gra\u00e7a da Silva",
+          "Mait Metspalu",
+          "Davide Pettener",
+          "Donata Luiselli"
+        ],
+        "institutions": [
+          "University of Cambridge"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7907376289367676
+      },
+      {
+        "pmid": "29485623",
+        "title": "High-quality science requires high-quality open data infrastructure.",
+        "journal": "Scientific data",
+        "year": 2018.0,
+        "authors": [
+          "Susanna-Assunta Sansone",
+          "Mark Thorley",
+          "Patricia Cruse"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Cancer Data"
+        ],
+        "score": 0.7899471521377563
+      },
+      {
+        "pmid": "39186794",
+        "title": "Molecular connectomics: Placing cells into morphological tissue context.",
+        "journal": "PLoS biology",
+        "year": 2024.0,
+        "authors": [
+          "Stathis Megas",
+          "Nadav Yayon",
+          "Kerstin B Meyer",
+          "Sarah A Teichmann"
+        ],
+        "institutions": [
+          "University of Cambridge",
+          "Wellcome Sanger Institute"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7886258363723755
+      },
+      {
+        "pmid": "35128509",
+        "title": "International federation of genomic medicine databases using GA4GH standards.",
+        "journal": "Cell genomics",
+        "year": 2021.0,
+        "authors": [
+          "Heidi L Rehm",
+          "Tommi H Nyronen",
+          "Mikael Linden",
+          "Ewan Bimey",
+          "Adrian Thorogood",
+          "Yann Joly",
+          "Jordi Rambla",
+          "Arcadi Navarro",
+          "Michael Brudno",
+          "Melissa S Cline"
+        ],
+        "institutions": [
+          "European Bioinformatics Institute"
+        ],
+        "themes": [
+          "Galaxy"
+        ],
+        "score": 0.7874255180358887
+      },
+      {
+        "pmid": "39660862",
+        "title": "Advancing dental biofilm models: the integral role of pH in predicting",
+        "journal": "mSphere",
+        "year": 2025.0,
+        "authors": [
+          "Valentina Gogulancea",
+          "Nicholas S Jakubovics",
+          "Paul Barrett",
+          "Aline Metris",
+          "Irina D Ofi\u0163eru"
+        ],
+        "institutions": [
+          "Newcastle University"
+        ],
+        "themes": [
+          "Microbial Biotechnology"
+        ],
+        "score": 0.7869151830673218
+      }
+    ],
+    "themes_results": [
+      {
+        "pmid": "22372999",
+        "title": "Argudas: lessons for argumentation in biology based on a gene expression use case.",
+        "journal": "BMC bioinformatics",
+        "year": 2012.0,
+        "authors": [],
+        "institutions": [],
+        "themes": [
+          "Rare Diseases",
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "22161358",
+        "title": "Biomedical atlases: systematics, informatics and analysis.",
+        "journal": "Advances in experimental medicine and biology",
+        "year": 2012.0,
+        "authors": [
+          "Richard A Baldock"
+        ],
+        "institutions": [
+          "University of Edinburgh"
+        ],
+        "themes": [
+          "Systems Biology",
+          "Food and Nutrition"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "27088890",
+        "title": "The Pain in Neuropathy Study (PiNS): a cross-sectional observational study determining the somatosensory phenotype of painful and painless diabetic neuropathy.",
+        "journal": "Pain",
+        "year": 2016.0,
+        "authors": [
+          "Andreas C Themistocleous",
+          "Jonathan G Lees",
+          "Juan D Ramirez",
+          "Pallai R Shillo",
+          "Dinesh Selvarajah",
+          "Solomon Tesfaye",
+          "Andrew S C Rice",
+          "David L H Bennett"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "15890745",
+        "title": "A criticality-based framework for task composition in multi-agent bioinformatics integration systems.",
+        "journal": "Bioinformatics (Oxford, England)",
+        "year": 2005.0,
+        "authors": [
+          "Konstantinos A Karasavvas"
+        ],
+        "institutions": [
+          "University of Edinburgh"
+        ],
+        "themes": [
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "34804501",
+        "title": "Perspectives on automated composition of workflows in the life sciences.",
+        "journal": "F1000Research",
+        "year": 2021.0,
+        "authors": [
+          "Carole Goble",
+          "Stian Soiland-Reyes",
+          "Robert Stevens",
+          "Anna-Lena Lamprecht",
+          "Magnus Palmblad",
+          "Jon Ison",
+          "Veit Schw\u00e4mmle",
+          "Mohammad Sadnan Al Manir",
+          "Ilkay Altintas",
+          "Christopher J O Baker",
+          "Ammar Ben Hadj Amor",
+          "Salvador Capella-Gutierrez",
+          "Paulos Charonyktakis",
+          "Michael R Crusoe",
+          "Yolanda Gil",
+          "Timothy J Griffin",
+          "Paul Groth",
+          "Hans Ienasescu",
+          "Pratik Jagtap",
+          "Vedran Kasalica",
+          "Alireza Khanteymoori",
+          "Tobias Kuhn",
+          "Hailiang Mei",
+          "Herv\u00e9 M\u00e9nager",
+          "Steffen M\u00f6ller",
+          "Robin A Richardson",
+          "Vincent Robert",
+          "Szoke Szaniszlo",
+          "Suzan Verberne",
+          "Aswin Verhoeven",
+          "Katherine Wolstencroft"
+        ],
+        "institutions": [
+          "University of Manchester"
+        ],
+        "themes": [
+          "Galaxy",
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "15566564",
+        "title": "Integrating partonomic hierarchies in anatomy ontologies.",
+        "journal": "BMC bioinformatics",
+        "year": 2004.0,
+        "authors": [
+          "Albert Burger"
+        ],
+        "institutions": [
+          "University of Edinburgh"
+        ],
+        "themes": [
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "26112289",
+        "title": "Data Safe Havens in health research and healthcare.",
+        "journal": "Bioinformatics (Oxford, England)",
+        "year": 2015.0,
+        "authors": [
+          "Paul R Burton",
+          "Madeleine J Murtagh",
+          "Andy Boyd",
+          "Edward S Dove",
+          "Susan E Wallace",
+          "Amadou Gaye",
+          "Anthony J Brookes",
+          "Pat Goodwin",
+          "Jon Fistein",
+          "Martin Bobrow",
+          "James B Williams",
+          "Anne-Marie Tass\u00e9",
+          "Julian Little",
+          "Rex L Chisholm",
+          "Kristian Hveem",
+          "Bartha M Knoppers"
+        ],
+        "institutions": [
+          "University of Edinburgh",
+          "University of Leeds",
+          "University of Cambridge"
+        ],
+        "themes": [
+          "Biodiversity",
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "24564760",
+        "title": "Distilling structure in Taverna scientific workflows: a refactoring approach.",
+        "journal": "BMC bioinformatics",
+        "year": 2014.0,
+        "authors": [
+          "Sarah Cohen-Boulakia",
+          "Jiuqiang Chen",
+          "Alan R Williams",
+          "Christine Froidevaux"
+        ],
+        "institutions": [],
+        "themes": [
+          "Systems Biology",
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "32811832",
+        "title": "Geometric principles underlying the proliferation of a model cell system.",
+        "journal": "Nature communications",
+        "year": 2020.0,
+        "authors": [
+          "Ling Juan Wu",
+          "Seoungjun Lee",
+          "Sungshic Park",
+          "Lucy E Eland",
+          "Anil Wipat",
+          "S\u00e9amus Holden",
+          "Jeff Errington"
+        ],
+        "institutions": [
+          "Newcastle University",
+          "King's College London"
+        ],
+        "themes": [
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "22027554",
+        "title": "Controlled vocabularies and semantics in systems biology.",
+        "journal": "Molecular systems biology",
+        "year": 2011.0,
+        "authors": [
+          "M\u00e9lanie Courtot",
+          "Nick Juty",
+          "Christian Kn\u00fcpfer",
+          "Dagmar Waltemath",
+          "Anna Zhukova",
+          "Andreas Dr\u00e4ger",
+          "Michel Dumontier",
+          "Andrew Finney",
+          "Martin Golebiewski",
+          "Janna Hastings",
+          "Stefan Hoops",
+          "Sarah Keating",
+          "James Lawson",
+          "Allyson Lister",
+          "James Lu",
+          "Rainer Machne",
+          "Pedro Mendes",
+          "Matthew Pocock",
+          "Nicolas Rodriguez",
+          "Alice Villeger",
+          "Darren J Wilkinson",
+          "Sarala Wimalaratne"
+        ],
+        "institutions": [],
+        "themes": [
+          "Systems Biology",
+          "3D-BioInfo"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      }
+    ],
+    "seeds_experts": [
+      {
+        "name": "Susanna-Assunta Sansone",
+        "paper_count": 3
+      },
+      {
+        "name": "Philippe Rocca-Serra",
+        "paper_count": 2
+      },
+      {
+        "name": "Jason R Swedlow",
+        "paper_count": 2
+      },
+      {
+        "name": "Wooli Bae",
+        "paper_count": 1
+      },
+      {
+        "name": "Guy-Bart V Stan",
+        "paper_count": 1
+      }
+    ],
+    "themes_experts": [
+      {
+        "name": "Helen Brown",
+        "paper_count": 4
+      },
+      {
+        "name": "Laura Fortunato",
+        "paper_count": 2
+      },
+      {
+        "name": "Clare McCrudden",
+        "paper_count": 2
+      },
+      {
+        "name": "Alix Brazier",
+        "paper_count": 2
+      },
+      {
+        "name": "Sarah Huf",
+        "paper_count": 2
+      }
+    ],
+    "analysis": {
+      "seeds_paper_count": 10,
+      "themes_paper_count": 10,
+      "seeds_expert_count": 5,
+      "themes_expert_count": 5,
+      "seeds_quality": 0.6799999999999999,
+      "themes_quality": 0.76,
+      "overlap_papers": 0,
+      "overlap_ratio": 0.0
+    }
+  },
+  {
+    "query": "structural biology",
+    "seeds_results": [
+      {
+        "pmid": "33275434",
+        "title": "",
+        "journal": "Nano letters",
+        "year": 2021.0,
+        "authors": [
+          "Wooli Bae",
+          "Guy-Bart V Stan",
+          "Thomas E Ouldridge"
+        ],
+        "institutions": [
+          "Imperial College London"
+        ],
+        "themes": [
+          "Microbial Biotechnology"
+        ],
+        "score": 0.7631561756134033
+      },
+      {
+        "pmid": "36382113",
+        "title": "Best practices for constructing, preparing, and evaluating protein-ligand binding affinity benchmarks [Article v0.1].",
+        "journal": "Living journal of computational molecular science",
+        "year": 2022.0,
+        "authors": [
+          "Hannah E Bruce Macdonald",
+          "Antonia S J S Mey",
+          "David F Hahn",
+          "Christopher I Bayly",
+          "John D Chodera",
+          "David L Mobley",
+          "Laura Perez Benito",
+          "Christina E M Schindler",
+          "Gary Tresadern",
+          "Gregory L Warren"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7591623663902283
+      },
+      {
+        "pmid": "36450138",
+        "title": "Not All",
+        "journal": "Inorganic chemistry",
+        "year": 2022.0,
+        "authors": [
+          "Samantha J O Hardman",
+          "Craig R Rice",
+          "Katie Eastham",
+          "Paul A Scattergood",
+          "Danny Chu",
+          "Rayhaan Z Boota",
+          "Adrien Soupart",
+          "Fabienne Alary",
+          "Isabelle M Dixon",
+          "Paul I P Elliott"
+        ],
+        "institutions": [
+          "University of Manchester"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7589378356933594
+      },
+      {
+        "pmid": "29485623",
+        "title": "High-quality science requires high-quality open data infrastructure.",
+        "journal": "Scientific data",
+        "year": 2018.0,
+        "authors": [
+          "Susanna-Assunta Sansone",
+          "Mark Thorley",
+          "Patricia Cruse"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Cancer Data"
+        ],
+        "score": 0.7587832808494568
+      },
+      {
+        "pmid": "38117209",
+        "title": "Solvent-Modulated Specific Ion Effects: Poly(",
+        "journal": "Langmuir : the ACS journal of surfaces and colloids",
+        "year": 2024.0,
+        "authors": [
+          "Hayden Robertson",
+          "Andrew R J Nelson",
+          "Edwin C Johnson",
+          "Joshua D Willott",
+          "Stuart W Prescott",
+          "Grant B Webber",
+          "Erica J Wanless",
+          "Isaac J Gresham",
+          "Kasimir P Gregory"
+        ],
+        "institutions": [
+          "Newcastle University"
+        ],
+        "themes": [
+          "Intrinsically Disordered Proteins (IDP)"
+        ],
+        "score": 0.7578065991401672
+      },
+      {
+        "pmid": "26700851",
+        "title": "The evolution of standards and data management practices in systems biology.",
+        "journal": "Molecular systems biology",
+        "year": 2015.0,
+        "authors": [
+          "Stuart Owen",
+          "Carole Goble",
+          "Natalie J Stanford",
+          "Nick Juty",
+          "Christopher Tomlinson",
+          "Sarah Butcher",
+          "Henning Hermjakob",
+          "Jacky Snoep",
+          "Katherine Wolstencroft",
+          "Martin Golebiewski",
+          "Renate Kania",
+          "Wolfgang Mueller"
+        ],
+        "institutions": [
+          "University of Manchester",
+          "European Bioinformatics Institute",
+          "Imperial College London"
+        ],
+        "themes": [
+          "Rare Diseases"
+        ],
+        "score": 0.7564738392829895
+      },
+      {
+        "pmid": "37977115",
+        "title": "Large-scale clustering of AlphaFold2 3D models shines light on the structure and function of proteins.",
+        "journal": "Molecular cell",
+        "year": 2023.0,
+        "authors": [
+          "Nicola Bordin",
+          "Andy M Lau",
+          "Christine Orengo"
+        ],
+        "institutions": [
+          "University College London"
+        ],
+        "themes": [
+          "3D-BioInfo"
+        ],
+        "score": 0.7543067932128906
+      },
+      {
+        "pmid": "37388964",
+        "title": "pBLAM1-x: standardized transposon tools for high-throughput screening.",
+        "journal": "Synthetic biology (Oxford, England)",
+        "year": 2023.0,
+        "authors": [
+          "Lorea Alejaldre",
+          "Ana-Mariya Anhel"
+        ],
+        "institutions": [],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7524377703666687
+      },
+      {
+        "pmid": "33523652",
+        "title": "",
+        "journal": "Bioconjugate chemistry",
+        "year": 2021.0,
+        "authors": [
+          "Julien C Vantourout",
+          "Josephine Yuen",
+          "Ghotas Evindar",
+          "Letian Kuai",
+          "Xiaopeng Bai",
+          "Eric Shi",
+          "Steven Skinner",
+          "Christopher Arico-Muendel",
+          "Andrew M Mason",
+          "Graham L Simpson",
+          "Michael Hobbs",
+          "Emma Edgar",
+          "Saul Needle",
+          "Steve Wilson",
+          "Paul Scott-Stevens",
+          "William Traylen",
+          "Kim Lambert",
+          "Neil Young",
+          "Shenaz Bunally",
+          "Scott G Summerfield",
+          "Richard Snell",
+          "Rakesh Lad",
+          "Lisa Shewchuk",
+          "Allan J B Watson",
+          "Chun-Wa Chung",
+          "Sandeep Pal",
+          "Dennis A Holt",
+          "Lara S Kallander",
+          "Joanne Prendergast",
+          "Katrina Rivera",
+          "David G Washburn",
+          "Mark R Harpel",
+          "Albert Isidro-Llobet"
+        ],
+        "institutions": [
+          "University of Glasgow"
+        ],
+        "themes": [
+          "Intrinsically Disordered Proteins (IDP)"
+        ],
+        "score": 0.7511997818946838
+      },
+      {
+        "pmid": "37555138",
+        "title": "Cumulant expansion with localization: A new representation of the diffusion MRI signal.",
+        "journal": "Frontiers in neuroimaging",
+        "year": 2022.0,
+        "authors": [
+          "Maryam Afzali",
+          "J\u00fcrgen E Schneider",
+          "Tomasz Pieciak",
+          "Evren \u00d6zarslan"
+        ],
+        "institutions": [
+          "Cardiff University",
+          "University of Leeds"
+        ],
+        "themes": [
+          "Single-Cell Omics"
+        ],
+        "score": 0.7507655620574951
+      }
+    ],
+    "themes_results": [
+      {
+        "pmid": "22372999",
+        "title": "Argudas: lessons for argumentation in biology based on a gene expression use case.",
+        "journal": "BMC bioinformatics",
+        "year": 2012.0,
+        "authors": [],
+        "institutions": [],
+        "themes": [
+          "Rare Diseases",
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "22161358",
+        "title": "Biomedical atlases: systematics, informatics and analysis.",
+        "journal": "Advances in experimental medicine and biology",
+        "year": 2012.0,
+        "authors": [
+          "Richard A Baldock"
+        ],
+        "institutions": [
+          "University of Edinburgh"
+        ],
+        "themes": [
+          "Systems Biology",
+          "Food and Nutrition"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "27088890",
+        "title": "The Pain in Neuropathy Study (PiNS): a cross-sectional observational study determining the somatosensory phenotype of painful and painless diabetic neuropathy.",
+        "journal": "Pain",
+        "year": 2016.0,
+        "authors": [
+          "Andreas C Themistocleous",
+          "Jonathan G Lees",
+          "Juan D Ramirez",
+          "Pallai R Shillo",
+          "Dinesh Selvarajah",
+          "Solomon Tesfaye",
+          "Andrew S C Rice",
+          "David L H Bennett"
+        ],
+        "institutions": [
+          "University of Oxford"
+        ],
+        "themes": [
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "15890745",
+        "title": "A criticality-based framework for task composition in multi-agent bioinformatics integration systems.",
+        "journal": "Bioinformatics (Oxford, England)",
+        "year": 2005.0,
+        "authors": [
+          "Konstantinos A Karasavvas"
+        ],
+        "institutions": [
+          "University of Edinburgh"
+        ],
+        "themes": [
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "34804501",
+        "title": "Perspectives on automated composition of workflows in the life sciences.",
+        "journal": "F1000Research",
+        "year": 2021.0,
+        "authors": [
+          "Carole Goble",
+          "Stian Soiland-Reyes",
+          "Robert Stevens",
+          "Anna-Lena Lamprecht",
+          "Magnus Palmblad",
+          "Jon Ison",
+          "Veit Schw\u00e4mmle",
+          "Mohammad Sadnan Al Manir",
+          "Ilkay Altintas",
+          "Christopher J O Baker",
+          "Ammar Ben Hadj Amor",
+          "Salvador Capella-Gutierrez",
+          "Paulos Charonyktakis",
+          "Michael R Crusoe",
+          "Yolanda Gil",
+          "Timothy J Griffin",
+          "Paul Groth",
+          "Hans Ienasescu",
+          "Pratik Jagtap",
+          "Vedran Kasalica",
+          "Alireza Khanteymoori",
+          "Tobias Kuhn",
+          "Hailiang Mei",
+          "Herv\u00e9 M\u00e9nager",
+          "Steffen M\u00f6ller",
+          "Robin A Richardson",
+          "Vincent Robert",
+          "Szoke Szaniszlo",
+          "Suzan Verberne",
+          "Aswin Verhoeven",
+          "Katherine Wolstencroft"
+        ],
+        "institutions": [
+          "University of Manchester"
+        ],
+        "themes": [
+          "Galaxy",
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "15566564",
+        "title": "Integrating partonomic hierarchies in anatomy ontologies.",
+        "journal": "BMC bioinformatics",
+        "year": 2004.0,
+        "authors": [
+          "Albert Burger"
+        ],
+        "institutions": [
+          "University of Edinburgh"
+        ],
+        "themes": [
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "26112289",
+        "title": "Data Safe Havens in health research and healthcare.",
+        "journal": "Bioinformatics (Oxford, England)",
+        "year": 2015.0,
+        "authors": [
+          "Paul R Burton",
+          "Madeleine J Murtagh",
+          "Andy Boyd",
+          "Edward S Dove",
+          "Susan E Wallace",
+          "Amadou Gaye",
+          "Anthony J Brookes",
+          "Pat Goodwin",
+          "Jon Fistein",
+          "Martin Bobrow",
+          "James B Williams",
+          "Anne-Marie Tass\u00e9",
+          "Julian Little",
+          "Rex L Chisholm",
+          "Kristian Hveem",
+          "Bartha M Knoppers"
+        ],
+        "institutions": [
+          "University of Edinburgh",
+          "University of Leeds",
+          "University of Cambridge"
+        ],
+        "themes": [
+          "Biodiversity",
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "24564760",
+        "title": "Distilling structure in Taverna scientific workflows: a refactoring approach.",
+        "journal": "BMC bioinformatics",
+        "year": 2014.0,
+        "authors": [
+          "Sarah Cohen-Boulakia",
+          "Jiuqiang Chen",
+          "Alan R Williams",
+          "Christine Froidevaux"
+        ],
+        "institutions": [],
+        "themes": [
+          "Systems Biology",
+          "Galaxy"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "32811832",
+        "title": "Geometric principles underlying the proliferation of a model cell system.",
+        "journal": "Nature communications",
+        "year": 2020.0,
+        "authors": [
+          "Ling Juan Wu",
+          "Seoungjun Lee",
+          "Sungshic Park",
+          "Lucy E Eland",
+          "Anil Wipat",
+          "S\u00e9amus Holden",
+          "Jeff Errington"
+        ],
+        "institutions": [
+          "Newcastle University",
+          "King's College London"
+        ],
+        "themes": [
+          "Systems Biology"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      },
+      {
+        "pmid": "22027554",
+        "title": "Controlled vocabularies and semantics in systems biology.",
+        "journal": "Molecular systems biology",
+        "year": 2011.0,
+        "authors": [
+          "M\u00e9lanie Courtot",
+          "Nick Juty",
+          "Christian Kn\u00fcpfer",
+          "Dagmar Waltemath",
+          "Anna Zhukova",
+          "Andreas Dr\u00e4ger",
+          "Michel Dumontier",
+          "Andrew Finney",
+          "Martin Golebiewski",
+          "Janna Hastings",
+          "Stefan Hoops",
+          "Sarah Keating",
+          "James Lawson",
+          "Allyson Lister",
+          "James Lu",
+          "Rainer Machne",
+          "Pedro Mendes",
+          "Matthew Pocock",
+          "Nicolas Rodriguez",
+          "Alice Villeger",
+          "Darren J Wilkinson",
+          "Sarala Wimalaratne"
+        ],
+        "institutions": [],
+        "themes": [
+          "Systems Biology",
+          "3D-BioInfo"
+        ],
+        "score": 1.0,
+        "matched_themes": [
+          "Systems Biology"
+        ]
+      }
+    ],
+    "seeds_experts": [
+      {
+        "name": "Susanna-Assunta Sansone",
+        "paper_count": 2
+      },
+      {
+        "name": "Henning Hermjakob",
+        "paper_count": 2
+      },
+      {
+        "name": "Adam J Jackson",
+        "paper_count": 2
+      },
+      {
+        "name": "Sandra Orchard",
+        "paper_count": 2
+      },
+      {
+        "name": "Wooli Bae",
+        "paper_count": 1
+      }
+    ],
+    "themes_experts": [
+      {
+        "name": "Helen Brown",
+        "paper_count": 4
+      },
+      {
+        "name": "Laura Fortunato",
+        "paper_count": 2
+      },
+      {
+        "name": "Clare McCrudden",
+        "paper_count": 2
+      },
+      {
+        "name": "Alix Brazier",
+        "paper_count": 2
+      },
+      {
+        "name": "Sarah Huf",
+        "paper_count": 2
+      }
+    ],
+    "analysis": {
+      "seeds_paper_count": 10,
+      "themes_paper_count": 10,
+      "seeds_expert_count": 5,
+      "themes_expert_count": 5,
+      "seeds_quality": 0.6,
+      "themes_quality": 0.6799999999999999,
+      "overlap_papers": 0,
+      "overlap_ratio": 0.0
+    }
+  }
+]
