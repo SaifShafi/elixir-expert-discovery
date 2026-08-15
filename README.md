@@ -1,115 +1,138 @@
 # ELIXIR Expert Discovery
 
-Mapping UK biomedical researchers to [ELIXIR Europe](https://elixir-europe.org/)
-communities, by building two competing retrieval systems over PubMed and evaluating
-them head to head.
+Two methods for finding the UK biomedical researchers who belong in
+[ELIXIR Europe](https://elixir-europe.org/) communities — built, evaluated against each
+other, and found to disagree almost completely.
 
 MSc Advanced Computer Science (AI) dissertation, University of Manchester, 2025.
+*Mapping ELIXIR Communities: Evaluating Content-Based and Network-Based Approaches for
+Systematic Expert Discovery in UK Biomedical Research.*
 
 ---
 
 ## The problem
 
-ELIXIR Europe organises bioinformatics work into communities (Galaxy, Proteomics,
-Microbiome, Human Data, and others). There is no reliable index of *which UK researchers
-actually work in which community*. Membership lists are incomplete and self-reported;
-publication records are complete but unstructured.
+ELIXIR coordinates 18 life-sciences communities across Europe. It has no systematic way
+to identify which UK researchers' work aligns with which community — membership comes
+from passive self-selection through known research groups, which structurally misses
+everyone outside those groups.
 
-So: infer the mapping from the literature.
+Doing it by hand would mean reading tens of thousands of publications and judging
+research alignment across 18 distinct domains.
 
-## Two approaches, evaluated against each other
+## Two pipelines
 
-The interesting question was not "can RAG retrieve papers" — it was **which corpus
-construction strategy produces better expert discovery**. Two pipelines were built to
-find out.
+Both end in a Retrieval-Augmented Generation system over BioBERT embeddings and a FAISS
+index. They differ in how the corpus is built, which turns out to matter enormously.
 
-| | **Seeds** | **Themes** |
+| | **Content-based** ("themes") | **Network-based** ("seeds") |
 |---|---|---|
-| Corpus | Expands outward from known ELIXIR member publications | Built from theme-defining query patterns across all of PubMed |
-| Bias | Anchored to existing membership — inherits its gaps | Anchored to topic language — finds people no list knows about |
-| Risk | Misses unaffiliated researchers | Topic drift, false positives |
+| Corpus | Theme-defining query patterns across PubMed | Expands outward from 86 verified ELIXIR UK authors via co-authorship |
+| Publications | 80,849 UK-affiliated | 370,282 |
+| Assumes | Community membership shows in what you write about | Community membership shows in who you work with |
+| Experts found | 26,111 (100% confidence) | 28,567 (99.97% confidence) |
 
-Both use BioBERT embeddings, a FAISS index, and a filtered semantic-search layer
-(year / author / institution / theme / journal / UK-affiliation).
+Author-institution affiliation records processed: **8,373,485**.
 
-### Result
+## The finding
 
-Across 17 focused evaluation queries scored on relevance, diversity, recency,
-completeness, and result count:
+Both systems work. Both produce high-confidence expert lists of comparable size.
 
-**Themes won 12, Seeds won 5.**
+**Only 924 experts — 5.6% — were validated by both.**
 
-Query types covered: community-specific (6), institutional (5), general (4), AI/ML (2).
-A second broader evaluation set covers 10 further queries with per-query expert lists.
+The two approaches identify fundamentally different populations. Not noise, not a tuning
+artefact: a structural consequence of what each method treats as evidence of belonging.
 
-Raw evaluation output is in [`eval/`](eval/) — not summarised away, so the scoring can
-be checked rather than taken on trust.
+- **Network-based** finds collaborative, early-career researchers (70.9% vs 49.6%) in
+  established computational domains like Galaxy workflows.
+- **Content-based** finds focused specialists (99.1% single-theme) and mid-career
+  researchers in emerging interdisciplinary areas like Rare Diseases.
+- Author overlap between systems: 24.4%. Publication overlap: **3.6%**.
+- The 924 who appear in both turn out to be cross-domain researchers.
 
-<!-- CONFIRM BEFORE PUBLISHING: the dissertation-scale figures below come from the
-     project write-up. Verify each against the final report before this goes public. -->
-Corpus scale: ~370,000 publications processed; 17,000+ experts mapped across ~54,500
-researcher–community relationships.
+The practical implication is the useful part: **choosing one method silently chooses which
+kind of researcher you are able to find.** An organisation running expert discovery with
+a single approach will systematically miss a population it has no way of knowing it
+missed.
+
+Combined output: **17,333 unique UK experts** across **54,500+ researcher–community
+mappings**.
+
+Robustness: results hold across **600+ parameter combinations** of thresholds and expert
+criteria.
+
+---
+
+## Evaluation
+
+Four complementary frameworks: coverage validation, overlap analysis, literature-based
+expert evaluation using bibliometric criteria (10+ publications, multi-institutional
+collaboration, activity since 2020), and head-to-head RAG querying.
+
+On the RAG comparison — 17 focused queries scored on relevance, diversity, recency and
+completeness — **content-based won 12, network-based won 5**. Query types: community-specific
+(6), institutional (5), general (4), AI/ML (2).
+
+Raw evaluation output ships in [`eval/`](eval/) rather than being summarised away, so the
+scoring can be checked instead of taken on trust.
 
 ---
 
 ## Pipeline
 
 ```
-PubMed E-utilities  ──▶  ingest  ──▶  resolve  ──▶  dataset  ──▶  embed + index  ──▶  RAG
-                          │            │              │              │                │
-                    resumable      ROR affil.     structured     BioBERT          filtered
-                    harvesting     matching       parquet        + FAISS          semantic
-                                                                                   search
+PubMed E-utilities ──▶ ingest ──▶ resolve ──▶ dataset ──▶ BioBERT + FAISS ──▶ RAG
+                        │           │           │              │              │
+                   resumable    ROR affil.  structured     embeddings     filtered
+                   harvesting   matching    parquet        + index        semantic
+                                                                          search
 ```
 
 ### `src/ingest/` — PubMed harvesting
 
-Long-running harvest of theme-matched UK publications. The engineering problem here was
-runtime: the first working version projected to ~100 hours.
+The engineering problem was runtime: the first working version projected to ~100 hours.
 
 - Parallel E-utilities calls via `ThreadPoolExecutor` (32 workers) with a QPS limiter
 - Resumable: append-only CSVs, per-theme checkpoints, disk-aware raw-XML retention
 - Batched EFetch (200 PMIDs/request) with history-server paging
 - `lru_cache` on rules scoring and fuzzy matching
 
-Measured effect is written up in [`docs/performance.md`](docs/performance.md):
-**~100h → <20h**, with the largest single win from parallelising the API calls.
-
+Result, written up in [`docs/performance.md`](docs/performance.md): **~100h → <20h**.
 `build_uk_elixir_theme_papers.py` is the pre-optimisation baseline, kept deliberately so
 the comparison is inspectable rather than asserted.
 
 ### `src/resolve/` — affiliation resolution
 
-PubMed affiliation strings are free text. Deciding "is this a UK institution" is the
-step that quietly determines corpus quality.
-
-Three-tier strategy, offline-first:
+PubMed affiliation strings are free text. Deciding "is this a UK institution" quietly
+determines corpus quality. Three tiers, offline-first:
 
 1. **Offline** — fuzzy match against a [ROR](https://ror.org/) snapshot
 2. **Online** — ROR API only when the offline match is ambiguous, cached to disk
 3. **Rules fallback** — deterministic scoring when ROR returns nothing
 
 Every row records which tier decided it (`affil_method ∈ {ror_api, ror_offline, rules,
-none}`) plus the score. Borderline rules-tier matches are written to a separate
-near-threshold file for manual audit instead of being silently accepted.
+none}`) and its score. Borderline rules-tier matches are written to a separate
+near-threshold file for manual audit rather than silently accepted.
 
 ### `src/network/` — co-authorship analysis
 
-Betweenness centrality over the co-authorship graph, as a structural signal for community
-membership independent of the text.
+Betweenness centrality over the co-authorship graph — the structural signal underlying
+the network-based pipeline.
 
 ### `src/rag/` — retrieval systems
 
-`SeedsRAGSystem` and `ThemesRAGSystem`. Semantic search with post-retrieval filtering, plus
-lookup helpers (papers by theme, institutions by author, metadata by PMID).
+`SeedsRAGSystem` and `ThemesRAGSystem`. Semantic search with post-retrieval filtering by
+year, author, institution, theme, journal and UK affiliation, plus lookup helpers.
 
-API documentation: [`docs/seeds-rag.md`](docs/seeds-rag.md) ·
-[`docs/themes-rag.md`](docs/themes-rag.md)
+BioBERT was chosen over PubMedBERT and SciBERT: PubMedBERT has more specialised
+vocabulary and SciBERT broader scientific coverage, but BioBERT's combined training on
+PubMed abstracts and PMC full texts was the better balance for this corpus.
 
-### `src/rag_llm/` — LLM integration layer
+API docs: [`docs/seeds-rag.md`](docs/seeds-rag.md) · [`docs/themes-rag.md`](docs/themes-rag.md)
 
-Adds an LLM answer layer over the retrieval systems, and the harness that produced the
-evaluation in `eval/`.
+### `src/rag_llm/` — LLM layer
+
+An answer layer over the retrieval systems, plus the harness that produced `eval/`.
 
 ---
 
@@ -117,35 +140,30 @@ evaluation in `eval/`.
 
 ```bash
 pip install -r requirements.txt
-cp env.example .env     # then fill in NCBI_EMAIL and NCBI_API_KEY
+cp env.example .env      # then fill in NCBI_EMAIL and NCBI_API_KEY
 ```
 
-An [NCBI API key](https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/)
-is free and raises the E-utilities rate limit from 3 to 10 requests/second. Config is
-read from the environment only — there are no credentials in this repository.
+An [NCBI API key](https://www.ncbi.nlm.nih.gov/account/settings/) is free and raises the
+E-utilities rate limit from 3 to 10 requests/second. Config is read from the environment
+only — there are no credentials in this repository.
 
 ```bash
 python src/ingest/build_uk_elixir_theme_papers_optimized.py \
     --ror-csv <ror_snapshot.csv> \
     --out output.csv \
     --themes-file themes.json \
-    --max-workers 32 \
-    --batch-size 200 \
-    --sleep-seconds 0.01
+    --max-workers 32 --batch-size 200 --sleep-seconds 0.01
 ```
 
-The harvest resumes from existing output, so an interrupted run is restarted with the
-same command.
+The harvest resumes from existing output, so an interrupted run restarts with the same
+command.
 
 ### Not included
 
-The generated artefacts — the ROR API cache (~116MB), the harvested corpus, the FAISS
-indices, and the embedding parquets — are not in the repository. They are reproducible
-from the pipeline. The two RAG loaders in `src/rag/` were authored as Colab cells;
-their shell magics are commented with `# [colab magic]` so the files parse as plain
-Python.
-
----
+Generated artefacts — the ROR API cache (~116MB), the harvested corpus, FAISS indices and
+embedding parquets — are reproducible from the pipeline and are not in the repository.
+The two RAG loaders in `src/rag/` were authored as Colab cells; their shell magics are
+commented `# [colab magic]` so the files parse as plain Python.
 
 ## Stack
 
